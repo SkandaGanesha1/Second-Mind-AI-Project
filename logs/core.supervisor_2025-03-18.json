@@ -1,0 +1,340 @@
+[SYSTEM] Registered generation agent
+{"timestamp": "2025-03-18T18:34:38.404826", "level": "INFO", "session_id": "session_1742303074", "agent": "system", "message": "Registered generation agent", "data": {}}
+[SYSTEM] Registered reflection agent
+{"timestamp": "2025-03-18T18:34:38.405823", "level": "INFO", "session_id": "session_1742303074", "agent": "system", "message": "Registered reflection agent", "data": {}}
+[SYSTEM] Registered ranking agent
+{"timestamp": "2025-03-18T18:34:38.407229", "level": "INFO", "session_id": "session_1742303074", "agent": "system", "message": "Registered ranking agent", "data": {}}
+[SYSTEM] Registered generation agent
+{"timestamp": "2025-03-18T18:35:31.121837", "level": "INFO", "session_id": "session_1742303126", "agent": "system", "message": "Registered generation agent", "data": {}}
+[SYSTEM] Registered reflection agent
+{"timestamp": "2025-03-18T18:35:31.123207", "level": "INFO", "session_id": "session_1742303126", "agent": "system", "message": "Registered reflection agent", "data": {}}
+[SYSTEM] Registered ranking agent
+{"timestamp": "2025-03-18T18:35:31.124342", "level": "INFO", "session_id": "session_1742303126", "agent": "system", "message": "Registered ranking agent", "data": {}}
+[SYSTEM] Registered generation agent
+{"timestamp": "2025-03-18T18:35:45.598391", "level": "INFO", "session_id": "session_1742303141", "agent": "system", "message": "Registered generation agent", "data": {}}
+[SYSTEM] Registered reflection agent
+{"timestamp": "2025-03-18T18:35:45.599447", "level": "INFO", "session_id": "session_1742303141", "agent": "system", "message": "Registered reflection agent", "data": {}}
+[SYSTEM] Registered ranking agent
+{"timestamp": "2025-03-18T18:35:45.600481", "level": "INFO", "session_id": "session_1742303141", "agent": "system", "message": "Registered ranking agent", "data": {}}
+[SYSTEM] Registered evolution agent
+{"timestamp": "2025-03-18T18:35:45.601464", "level": "INFO", "session_id": "session_1742303141", "agent": "system", "message": "Registered evolution agent", "data": {}}
+[SYSTEM] Registered generation agent
+{"timestamp": "2025-03-18T18:36:33.824880", "level": "INFO", "session_id": "session_1742303190", "agent": "system", "message": "Registered generation agent", "data": {}}
+[SYSTEM] Registered reflection agent
+{"timestamp": "2025-03-18T18:36:33.825970", "level": "INFO", "session_id": "session_1742303190", "agent": "system", "message": "Registered reflection agent", "data": {}}
+[SYSTEM] Registered ranking agent
+{"timestamp": "2025-03-18T18:36:33.825970", "level": "INFO", "session_id": "session_1742303190", "agent": "system", "message": "Registered ranking agent", "data": {}}
+[SYSTEM] Registered evolution agent
+{"timestamp": "2025-03-18T18:36:33.827452", "level": "INFO", "session_id": "session_1742303190", "agent": "system", "message": "Registered evolution agent", "data": {}}
+[SYSTEM] Registered proximity agent
+{"timestamp": "2025-03-18T18:36:33.828482", "level": "INFO", "session_id": "session_1742303190", "agent": "system", "message": "Registered proximity agent", "data": {}}
+[SYSTEM] Registered generation agent
+{"timestamp": "2025-03-18T18:37:21.672677", "level": "INFO", "session_id": "session_1742303237", "agent": "system", "message": "Registered generation agent", "data": {}}
+[SYSTEM] Registered reflection agent
+{"timestamp": "2025-03-18T18:37:21.674362", "level": "INFO", "session_id": "session_1742303237", "agent": "system", "message": "Registered reflection agent", "data": {}}
+[SYSTEM] Registered ranking agent
+{"timestamp": "2025-03-18T18:37:21.674988", "level": "INFO", "session_id": "session_1742303237", "agent": "system", "message": "Registered ranking agent", "data": {}}
+[SYSTEM] Registered evolution agent
+{"timestamp": "2025-03-18T18:37:21.675559", "level": "INFO", "session_id": "session_1742303237", "agent": "system", "message": "Registered evolution agent", "data": {}}
+[SYSTEM] Registered proximity agent
+{"timestamp": "2025-03-18T18:37:21.676781", "level": "INFO", "session_id": "session_1742303237", "agent": "system", "message": "Registered proximity agent", "data": {}}
+[SYSTEM] Registered generation agent
+{"timestamp": "2025-03-18T18:41:38.533453", "level": "INFO", "session_id": "session_1742303494", "agent": "system", "message": "Registered generation agent", "data": {}}
+[SYSTEM] Registered reflection agent
+{"timestamp": "2025-03-18T18:41:38.534457", "level": "INFO", "session_id": "session_1742303494", "agent": "system", "message": "Registered reflection agent", "data": {}}
+[SYSTEM] Registered ranking agent
+{"timestamp": "2025-03-18T18:41:38.534457", "level": "INFO", "session_id": "session_1742303494", "agent": "system", "message": "Registered ranking agent", "data": {}}
+[SYSTEM] Registered evolution agent
+{"timestamp": "2025-03-18T18:41:38.535456", "level": "INFO", "session_id": "session_1742303494", "agent": "system", "message": "Registered evolution agent", "data": {}}
+[SYSTEM] Registered proximity agent
+{"timestamp": "2025-03-18T18:41:38.536466", "level": "INFO", "session_id": "session_1742303494", "agent": "system", "message": "Registered proximity agent", "data": {}}
+[SYSTEM] Registered meta_review agent
+{"timestamp": "2025-03-18T18:41:38.537455", "level": "INFO", "session_id": "session_1742303494", "agent": "system", "message": "Registered meta_review agent", "data": {}}
+[SYSTEM] Supervisor agent started
+{"timestamp": "2025-03-18T18:41:38.540476", "level": "INFO", "session_id": "session_1742303494", "agent": "system", "message": "Supervisor agent started", "data": {}}
+[SYSTEM] Started research session session_20250318184138 with query: Impact of AI on Forensic Investigations
+{"timestamp": "2025-03-18T18:41:38.545023", "level": "INFO", "session_id": "session_1742303494", "agent": "system", "message": "Started research session session_20250318184138 with query: Impact of AI on Forensic Investigations", "data": {}}
+[SYSTEM] Unknown agent type: web_search
+{"timestamp": "2025-03-18T18:41:38.546021", "level": "ERROR", "session_id": "session_1742303494", "agent": "system", "message": "Unknown agent type: web_search", "data": {}}
+[SYSTEM] Supervisor agent stopped
+{"timestamp": "2025-03-18T18:51:49.245715", "level": "INFO", "session_id": "session_1742303494", "agent": "system", "message": "Supervisor agent stopped", "data": {}}
+[SYSTEM] Registered generation agent
+{"timestamp": "2025-03-18T18:51:57.648185", "level": "INFO", "session_id": "session_1742304113", "agent": "system", "message": "Registered generation agent", "data": {}}
+[SYSTEM] Registered reflection agent
+{"timestamp": "2025-03-18T18:51:57.648185", "level": "INFO", "session_id": "session_1742304113", "agent": "system", "message": "Registered reflection agent", "data": {}}
+[SYSTEM] Registered ranking agent
+{"timestamp": "2025-03-18T18:51:57.650711", "level": "INFO", "session_id": "session_1742304113", "agent": "system", "message": "Registered ranking agent", "data": {}}
+[SYSTEM] Registered evolution agent
+{"timestamp": "2025-03-18T18:51:57.651723", "level": "INFO", "session_id": "session_1742304113", "agent": "system", "message": "Registered evolution agent", "data": {}}
+[SYSTEM] Registered proximity agent
+{"timestamp": "2025-03-18T18:51:57.652725", "level": "INFO", "session_id": "session_1742304113", "agent": "system", "message": "Registered proximity agent", "data": {}}
+[SYSTEM] Registered meta_review agent
+{"timestamp": "2025-03-18T18:51:57.652725", "level": "INFO", "session_id": "session_1742304113", "agent": "system", "message": "Registered meta_review agent", "data": {}}
+[SYSTEM] Supervisor agent started
+{"timestamp": "2025-03-18T18:51:57.655729", "level": "INFO", "session_id": "session_1742304113", "agent": "system", "message": "Supervisor agent started", "data": {}}
+[SYSTEM] Registered generation agent
+{"timestamp": "2025-03-18T18:52:44.062472", "level": "INFO", "session_id": "session_1742304160", "agent": "system", "message": "Registered generation agent", "data": {}}
+[SYSTEM] Registered reflection agent
+{"timestamp": "2025-03-18T18:52:44.062472", "level": "INFO", "session_id": "session_1742304160", "agent": "system", "message": "Registered reflection agent", "data": {}}
+[SYSTEM] Registered ranking agent
+{"timestamp": "2025-03-18T18:52:44.063729", "level": "INFO", "session_id": "session_1742304160", "agent": "system", "message": "Registered ranking agent", "data": {}}
+[SYSTEM] Registered evolution agent
+{"timestamp": "2025-03-18T18:52:44.064728", "level": "INFO", "session_id": "session_1742304160", "agent": "system", "message": "Registered evolution agent", "data": {}}
+[SYSTEM] Registered proximity agent
+{"timestamp": "2025-03-18T18:52:44.065753", "level": "INFO", "session_id": "session_1742304160", "agent": "system", "message": "Registered proximity agent", "data": {}}
+[SYSTEM] Registered meta_review agent
+{"timestamp": "2025-03-18T18:52:44.066916", "level": "INFO", "session_id": "session_1742304160", "agent": "system", "message": "Registered meta_review agent", "data": {}}
+[SYSTEM] Supervisor agent started
+{"timestamp": "2025-03-18T18:52:44.068909", "level": "INFO", "session_id": "session_1742304160", "agent": "system", "message": "Supervisor agent started", "data": {}}
+[SYSTEM] Registered generation agent
+{"timestamp": "2025-03-18T19:00:01.602624", "level": "INFO", "session_id": "session_1742304601", "agent": "system", "message": "Registered generation agent", "data": {}}
+[SYSTEM] Registered reflection agent
+{"timestamp": "2025-03-18T19:00:01.603193", "level": "INFO", "session_id": "session_1742304601", "agent": "system", "message": "Registered reflection agent", "data": {}}
+[SYSTEM] Registered ranking agent
+{"timestamp": "2025-03-18T19:00:01.603959", "level": "INFO", "session_id": "session_1742304601", "agent": "system", "message": "Registered ranking agent", "data": {}}
+[SYSTEM] Registered evolution agent
+{"timestamp": "2025-03-18T19:00:01.604509", "level": "INFO", "session_id": "session_1742304601", "agent": "system", "message": "Registered evolution agent", "data": {}}
+[SYSTEM] Registered proximity agent
+{"timestamp": "2025-03-18T19:00:01.605534", "level": "INFO", "session_id": "session_1742304601", "agent": "system", "message": "Registered proximity agent", "data": {}}
+[SYSTEM] Registered meta_review agent
+{"timestamp": "2025-03-18T19:00:01.605534", "level": "INFO", "session_id": "session_1742304601", "agent": "system", "message": "Registered meta_review agent", "data": {}}
+[SYSTEM] Supervisor agent started
+{"timestamp": "2025-03-18T19:00:01.608537", "level": "INFO", "session_id": "session_1742304601", "agent": "system", "message": "Supervisor agent started", "data": {}}
+[SYSTEM] Registered generation agent
+{"timestamp": "2025-03-18T19:04:26.409814", "level": "INFO", "session_id": "session_1742304866", "agent": "system", "message": "Registered generation agent", "data": {}}
+[SYSTEM] Registered reflection agent
+{"timestamp": "2025-03-18T19:04:26.410896", "level": "INFO", "session_id": "session_1742304866", "agent": "system", "message": "Registered reflection agent", "data": {}}
+[SYSTEM] Registered ranking agent
+{"timestamp": "2025-03-18T19:04:26.410896", "level": "INFO", "session_id": "session_1742304866", "agent": "system", "message": "Registered ranking agent", "data": {}}
+[SYSTEM] Registered evolution agent
+{"timestamp": "2025-03-18T19:04:26.411882", "level": "INFO", "session_id": "session_1742304866", "agent": "system", "message": "Registered evolution agent", "data": {}}
+[SYSTEM] Registered proximity agent
+{"timestamp": "2025-03-18T19:04:26.413396", "level": "INFO", "session_id": "session_1742304866", "agent": "system", "message": "Registered proximity agent", "data": {}}
+[SYSTEM] Registered meta_review agent
+{"timestamp": "2025-03-18T19:04:26.413396", "level": "INFO", "session_id": "session_1742304866", "agent": "system", "message": "Registered meta_review agent", "data": {}}
+[SYSTEM] Supervisor agent started
+{"timestamp": "2025-03-18T19:04:26.416429", "level": "INFO", "session_id": "session_1742304866", "agent": "system", "message": "Supervisor agent started", "data": {}}
+[SYSTEM] Registered generation agent
+{"timestamp": "2025-03-18T19:09:18.034376", "level": "INFO", "session_id": "session_1742305158", "agent": "system", "message": "Registered generation agent", "data": {}}
+[SYSTEM] Registered reflection agent
+{"timestamp": "2025-03-18T19:09:18.035930", "level": "INFO", "session_id": "session_1742305158", "agent": "system", "message": "Registered reflection agent", "data": {}}
+[SYSTEM] Registered ranking agent
+{"timestamp": "2025-03-18T19:09:18.035930", "level": "INFO", "session_id": "session_1742305158", "agent": "system", "message": "Registered ranking agent", "data": {}}
+[SYSTEM] Registered evolution agent
+{"timestamp": "2025-03-18T19:09:18.037484", "level": "INFO", "session_id": "session_1742305158", "agent": "system", "message": "Registered evolution agent", "data": {}}
+[SYSTEM] Registered proximity agent
+{"timestamp": "2025-03-18T19:09:18.038042", "level": "INFO", "session_id": "session_1742305158", "agent": "system", "message": "Registered proximity agent", "data": {}}
+[SYSTEM] Registered meta_review agent
+{"timestamp": "2025-03-18T19:09:18.038579", "level": "INFO", "session_id": "session_1742305158", "agent": "system", "message": "Registered meta_review agent", "data": {}}
+[SYSTEM] Supervisor agent started
+{"timestamp": "2025-03-18T19:09:18.040796", "level": "INFO", "session_id": "session_1742305158", "agent": "system", "message": "Supervisor agent started", "data": {}}
+[SYSTEM] Registered generation agent
+{"timestamp": "2025-03-18T19:18:44.309670", "level": "INFO", "session_id": "session_1742305724", "agent": "system", "message": "Registered generation agent", "data": {}}
+[SYSTEM] Registered reflection agent
+{"timestamp": "2025-03-18T19:18:44.309670", "level": "INFO", "session_id": "session_1742305724", "agent": "system", "message": "Registered reflection agent", "data": {}}
+[SYSTEM] Registered ranking agent
+{"timestamp": "2025-03-18T19:18:44.311072", "level": "INFO", "session_id": "session_1742305724", "agent": "system", "message": "Registered ranking agent", "data": {}}
+[SYSTEM] Registered evolution agent
+{"timestamp": "2025-03-18T19:18:44.312102", "level": "INFO", "session_id": "session_1742305724", "agent": "system", "message": "Registered evolution agent", "data": {}}
+[SYSTEM] Registered proximity agent
+{"timestamp": "2025-03-18T19:18:44.312102", "level": "INFO", "session_id": "session_1742305724", "agent": "system", "message": "Registered proximity agent", "data": {}}
+[SYSTEM] Registered meta_review agent
+{"timestamp": "2025-03-18T19:18:44.313297", "level": "INFO", "session_id": "session_1742305724", "agent": "system", "message": "Registered meta_review agent", "data": {}}
+[SYSTEM] Supervisor agent started
+{"timestamp": "2025-03-18T19:18:44.316068", "level": "INFO", "session_id": "session_1742305724", "agent": "system", "message": "Supervisor agent started", "data": {}}
+[SYSTEM] Registered generation agent
+{"timestamp": "2025-03-18T19:20:58.545456", "level": "INFO", "session_id": "session_1742305858", "agent": "system", "message": "Registered generation agent", "data": {}}
+[SYSTEM] Registered reflection agent
+{"timestamp": "2025-03-18T19:20:58.546030", "level": "INFO", "session_id": "session_1742305858", "agent": "system", "message": "Registered reflection agent", "data": {}}
+[SYSTEM] Registered ranking agent
+{"timestamp": "2025-03-18T19:20:58.547124", "level": "INFO", "session_id": "session_1742305858", "agent": "system", "message": "Registered ranking agent", "data": {}}
+[SYSTEM] Registered evolution agent
+{"timestamp": "2025-03-18T19:20:58.547715", "level": "INFO", "session_id": "session_1742305858", "agent": "system", "message": "Registered evolution agent", "data": {}}
+[SYSTEM] Registered proximity agent
+{"timestamp": "2025-03-18T19:20:58.548728", "level": "INFO", "session_id": "session_1742305858", "agent": "system", "message": "Registered proximity agent", "data": {}}
+[SYSTEM] Registered meta_review agent
+{"timestamp": "2025-03-18T19:20:58.549730", "level": "INFO", "session_id": "session_1742305858", "agent": "system", "message": "Registered meta_review agent", "data": {}}
+[SYSTEM] Supervisor agent started
+{"timestamp": "2025-03-18T19:20:58.553168", "level": "INFO", "session_id": "session_1742305858", "agent": "system", "message": "Supervisor agent started", "data": {}}
+[SYSTEM] Registered generation agent
+{"timestamp": "2025-03-18T19:24:23.074471", "level": "INFO", "session_id": "session_1742306063", "agent": "system", "message": "Registered generation agent", "data": {}}
+[SYSTEM] Registered reflection agent
+{"timestamp": "2025-03-18T19:24:23.075054", "level": "INFO", "session_id": "session_1742306063", "agent": "system", "message": "Registered reflection agent", "data": {}}
+[SYSTEM] Registered ranking agent
+{"timestamp": "2025-03-18T19:24:23.075626", "level": "INFO", "session_id": "session_1742306063", "agent": "system", "message": "Registered ranking agent", "data": {}}
+[SYSTEM] Registered evolution agent
+{"timestamp": "2025-03-18T19:24:23.076177", "level": "INFO", "session_id": "session_1742306063", "agent": "system", "message": "Registered evolution agent", "data": {}}
+[SYSTEM] Registered proximity agent
+{"timestamp": "2025-03-18T19:24:23.077293", "level": "INFO", "session_id": "session_1742306063", "agent": "system", "message": "Registered proximity agent", "data": {}}
+[SYSTEM] Registered meta_review agent
+{"timestamp": "2025-03-18T19:24:23.077998", "level": "INFO", "session_id": "session_1742306063", "agent": "system", "message": "Registered meta_review agent", "data": {}}
+[SYSTEM] Supervisor agent started
+{"timestamp": "2025-03-18T19:24:23.080278", "level": "INFO", "session_id": "session_1742306063", "agent": "system", "message": "Supervisor agent started", "data": {}}
+[SYSTEM] Registered generation agent
+{"timestamp": "2025-03-18T19:34:04.533386", "level": "INFO", "session_id": "session_1742306644", "agent": "system", "message": "Registered generation agent", "data": {}}
+[SYSTEM] Registered reflection agent
+{"timestamp": "2025-03-18T19:34:04.534396", "level": "INFO", "session_id": "session_1742306644", "agent": "system", "message": "Registered reflection agent", "data": {}}
+[SYSTEM] Registered ranking agent
+{"timestamp": "2025-03-18T19:34:04.535398", "level": "INFO", "session_id": "session_1742306644", "agent": "system", "message": "Registered ranking agent", "data": {}}
+[SYSTEM] Registered evolution agent
+{"timestamp": "2025-03-18T19:34:04.536377", "level": "INFO", "session_id": "session_1742306644", "agent": "system", "message": "Registered evolution agent", "data": {}}
+[SYSTEM] Registered proximity agent
+{"timestamp": "2025-03-18T19:34:04.537377", "level": "INFO", "session_id": "session_1742306644", "agent": "system", "message": "Registered proximity agent", "data": {}}
+[SYSTEM] Registered meta_review agent
+{"timestamp": "2025-03-18T19:34:04.537377", "level": "INFO", "session_id": "session_1742306644", "agent": "system", "message": "Registered meta_review agent", "data": {}}
+[SYSTEM] Supervisor agent started
+{"timestamp": "2025-03-18T19:34:04.540525", "level": "INFO", "session_id": "session_1742306644", "agent": "system", "message": "Supervisor agent started", "data": {}}
+[SYSTEM] Registered generation agent
+{"timestamp": "2025-03-18T20:14:20.611397", "level": "INFO", "session_id": "session_1742309060", "agent": "system", "message": "Registered generation agent", "data": {}}
+[SYSTEM] Registered reflection agent
+{"timestamp": "2025-03-18T20:14:20.612945", "level": "INFO", "session_id": "session_1742309060", "agent": "system", "message": "Registered reflection agent", "data": {}}
+[SYSTEM] Registered ranking agent
+{"timestamp": "2025-03-18T20:14:20.612945", "level": "INFO", "session_id": "session_1742309060", "agent": "system", "message": "Registered ranking agent", "data": {}}
+[SYSTEM] Registered evolution agent
+{"timestamp": "2025-03-18T20:14:20.636288", "level": "INFO", "session_id": "session_1742309060", "agent": "system", "message": "Registered evolution agent", "data": {}}
+[SYSTEM] Registered proximity agent
+{"timestamp": "2025-03-18T20:14:20.638306", "level": "INFO", "session_id": "session_1742309060", "agent": "system", "message": "Registered proximity agent", "data": {}}
+[SYSTEM] Registered meta_review agent
+{"timestamp": "2025-03-18T20:14:20.638306", "level": "INFO", "session_id": "session_1742309060", "agent": "system", "message": "Registered meta_review agent", "data": {}}
+[SYSTEM] Supervisor agent started
+{"timestamp": "2025-03-18T20:14:20.641310", "level": "INFO", "session_id": "session_1742309060", "agent": "system", "message": "Supervisor agent started", "data": {}}
+[SYSTEM] Registered generation agent
+{"timestamp": "2025-03-18T20:30:46.171880", "level": "INFO", "session_id": "session_1742310046", "agent": "system", "message": "Registered generation agent", "data": {}}
+[SYSTEM] Registered reflection agent
+{"timestamp": "2025-03-18T20:30:46.173547", "level": "INFO", "session_id": "session_1742310046", "agent": "system", "message": "Registered reflection agent", "data": {}}
+[SYSTEM] Registered ranking agent
+{"timestamp": "2025-03-18T20:30:46.174128", "level": "INFO", "session_id": "session_1742310046", "agent": "system", "message": "Registered ranking agent", "data": {}}
+[SYSTEM] Registered evolution agent
+{"timestamp": "2025-03-18T20:30:46.176031", "level": "INFO", "session_id": "session_1742310046", "agent": "system", "message": "Registered evolution agent", "data": {}}
+[SYSTEM] Registered proximity agent
+{"timestamp": "2025-03-18T20:30:46.178116", "level": "INFO", "session_id": "session_1742310046", "agent": "system", "message": "Registered proximity agent", "data": {}}
+[SYSTEM] Registered meta_review agent
+{"timestamp": "2025-03-18T20:30:46.179891", "level": "INFO", "session_id": "session_1742310046", "agent": "system", "message": "Registered meta_review agent", "data": {}}
+[SYSTEM] Supervisor agent started
+{"timestamp": "2025-03-18T20:30:46.186143", "level": "INFO", "session_id": "session_1742310046", "agent": "system", "message": "Supervisor agent started", "data": {}}
+[SYSTEM] Registered generation agent
+{"timestamp": "2025-03-18T20:37:40.257276", "level": "INFO", "session_id": "session_1742310460", "agent": "system", "message": "Registered generation agent", "data": {}}
+[SYSTEM] Registered reflection agent
+{"timestamp": "2025-03-18T20:37:40.257276", "level": "INFO", "session_id": "session_1742310460", "agent": "system", "message": "Registered reflection agent", "data": {}}
+[SYSTEM] Registered ranking agent
+{"timestamp": "2025-03-18T20:37:40.258286", "level": "INFO", "session_id": "session_1742310460", "agent": "system", "message": "Registered ranking agent", "data": {}}
+[SYSTEM] Registered evolution agent
+{"timestamp": "2025-03-18T20:37:40.259285", "level": "INFO", "session_id": "session_1742310460", "agent": "system", "message": "Registered evolution agent", "data": {}}
+[SYSTEM] Registered proximity agent
+{"timestamp": "2025-03-18T20:37:40.259285", "level": "INFO", "session_id": "session_1742310460", "agent": "system", "message": "Registered proximity agent", "data": {}}
+[SYSTEM] Registered meta_review agent
+{"timestamp": "2025-03-18T20:37:40.260287", "level": "INFO", "session_id": "session_1742310460", "agent": "system", "message": "Registered meta_review agent", "data": {}}
+[SYSTEM] Supervisor agent started
+{"timestamp": "2025-03-18T20:37:40.262286", "level": "INFO", "session_id": "session_1742310460", "agent": "system", "message": "Supervisor agent started", "data": {}}
+[SYSTEM] Registered generation agent
+{"timestamp": "2025-03-18T20:39:18.357900", "level": "INFO", "session_id": "session_1742310558", "agent": "system", "message": "Registered generation agent", "data": {}}
+[SYSTEM] Registered reflection agent
+{"timestamp": "2025-03-18T20:39:18.359888", "level": "INFO", "session_id": "session_1742310558", "agent": "system", "message": "Registered reflection agent", "data": {}}
+[SYSTEM] Registered ranking agent
+{"timestamp": "2025-03-18T20:39:18.360893", "level": "INFO", "session_id": "session_1742310558", "agent": "system", "message": "Registered ranking agent", "data": {}}
+[SYSTEM] Registered evolution agent
+{"timestamp": "2025-03-18T20:39:18.360893", "level": "INFO", "session_id": "session_1742310558", "agent": "system", "message": "Registered evolution agent", "data": {}}
+[SYSTEM] Registered proximity agent
+{"timestamp": "2025-03-18T20:39:18.361891", "level": "INFO", "session_id": "session_1742310558", "agent": "system", "message": "Registered proximity agent", "data": {}}
+[SYSTEM] Registered meta_review agent
+{"timestamp": "2025-03-18T20:39:18.361891", "level": "INFO", "session_id": "session_1742310558", "agent": "system", "message": "Registered meta_review agent", "data": {}}
+[SYSTEM] Supervisor agent started
+{"timestamp": "2025-03-18T20:39:18.364430", "level": "INFO", "session_id": "session_1742310558", "agent": "system", "message": "Supervisor agent started", "data": {}}
+[SYSTEM] Registered generation agent
+{"timestamp": "2025-03-18T20:46:56.221689", "level": "INFO", "session_id": "session_1742311016", "agent": "system", "message": "Registered generation agent", "data": {}}
+[SYSTEM] Registered reflection agent
+{"timestamp": "2025-03-18T20:46:56.222229", "level": "INFO", "session_id": "session_1742311016", "agent": "system", "message": "Registered reflection agent", "data": {}}
+[SYSTEM] Registered ranking agent
+{"timestamp": "2025-03-18T20:46:56.222773", "level": "INFO", "session_id": "session_1742311016", "agent": "system", "message": "Registered ranking agent", "data": {}}
+[SYSTEM] Registered evolution agent
+{"timestamp": "2025-03-18T20:46:56.223319", "level": "INFO", "session_id": "session_1742311016", "agent": "system", "message": "Registered evolution agent", "data": {}}
+[SYSTEM] Registered proximity agent
+{"timestamp": "2025-03-18T20:46:56.223319", "level": "INFO", "session_id": "session_1742311016", "agent": "system", "message": "Registered proximity agent", "data": {}}
+[SYSTEM] Registered meta_review agent
+{"timestamp": "2025-03-18T20:46:56.223319", "level": "INFO", "session_id": "session_1742311016", "agent": "system", "message": "Registered meta_review agent", "data": {}}
+[SYSTEM] Supervisor agent started
+{"timestamp": "2025-03-18T20:46:56.225329", "level": "INFO", "session_id": "session_1742311016", "agent": "system", "message": "Supervisor agent started", "data": {}}
+[SYSTEM] Registered generation agent
+{"timestamp": "2025-03-18T20:50:25.823780", "level": "INFO", "session_id": "session_1742311225", "agent": "system", "message": "Registered generation agent", "data": {}}
+[SYSTEM] Registered reflection agent
+{"timestamp": "2025-03-18T20:50:25.824319", "level": "INFO", "session_id": "session_1742311225", "agent": "system", "message": "Registered reflection agent", "data": {}}
+[SYSTEM] Registered ranking agent
+{"timestamp": "2025-03-18T20:50:25.824864", "level": "INFO", "session_id": "session_1742311225", "agent": "system", "message": "Registered ranking agent", "data": {}}
+[SYSTEM] Registered evolution agent
+{"timestamp": "2025-03-18T20:50:25.825405", "level": "INFO", "session_id": "session_1742311225", "agent": "system", "message": "Registered evolution agent", "data": {}}
+[SYSTEM] Registered proximity agent
+{"timestamp": "2025-03-18T20:50:25.825405", "level": "INFO", "session_id": "session_1742311225", "agent": "system", "message": "Registered proximity agent", "data": {}}
+[SYSTEM] Registered meta_review agent
+{"timestamp": "2025-03-18T20:50:25.825951", "level": "INFO", "session_id": "session_1742311225", "agent": "system", "message": "Registered meta_review agent", "data": {}}
+[SYSTEM] Supervisor agent started
+{"timestamp": "2025-03-18T20:50:25.827514", "level": "INFO", "session_id": "session_1742311225", "agent": "system", "message": "Supervisor agent started", "data": {}}
+[SYSTEM] Registered generation agent
+{"timestamp": "2025-03-18T20:55:26.174791", "level": "INFO", "session_id": "session_1742311526", "agent": "system", "message": "Registered generation agent", "data": {}}
+[SYSTEM] Registered reflection agent
+{"timestamp": "2025-03-18T20:55:26.174791", "level": "INFO", "session_id": "session_1742311526", "agent": "system", "message": "Registered reflection agent", "data": {}}
+[SYSTEM] Registered ranking agent
+{"timestamp": "2025-03-18T20:55:26.174791", "level": "INFO", "session_id": "session_1742311526", "agent": "system", "message": "Registered ranking agent", "data": {}}
+[SYSTEM] Registered evolution agent
+{"timestamp": "2025-03-18T20:55:26.175791", "level": "INFO", "session_id": "session_1742311526", "agent": "system", "message": "Registered evolution agent", "data": {}}
+[SYSTEM] Registered proximity agent
+{"timestamp": "2025-03-18T20:55:26.175791", "level": "INFO", "session_id": "session_1742311526", "agent": "system", "message": "Registered proximity agent", "data": {}}
+[SYSTEM] Registered meta_review agent
+{"timestamp": "2025-03-18T20:55:26.176792", "level": "INFO", "session_id": "session_1742311526", "agent": "system", "message": "Registered meta_review agent", "data": {}}
+[SYSTEM] Supervisor agent started
+{"timestamp": "2025-03-18T20:55:26.178796", "level": "INFO", "session_id": "session_1742311526", "agent": "system", "message": "Supervisor agent started", "data": {}}
+[SYSTEM] Registered generation agent
+{"timestamp": "2025-03-18T20:58:55.566964", "level": "INFO", "session_id": "session_1742311735", "agent": "system", "message": "Registered generation agent", "data": {}}
+[SYSTEM] Registered reflection agent
+{"timestamp": "2025-03-18T20:58:55.567963", "level": "INFO", "session_id": "session_1742311735", "agent": "system", "message": "Registered reflection agent", "data": {}}
+[SYSTEM] Registered ranking agent
+{"timestamp": "2025-03-18T20:58:55.567963", "level": "INFO", "session_id": "session_1742311735", "agent": "system", "message": "Registered ranking agent", "data": {}}
+[SYSTEM] Registered evolution agent
+{"timestamp": "2025-03-18T20:58:55.569534", "level": "INFO", "session_id": "session_1742311735", "agent": "system", "message": "Registered evolution agent", "data": {}}
+[SYSTEM] Registered proximity agent
+{"timestamp": "2025-03-18T20:58:55.569534", "level": "INFO", "session_id": "session_1742311735", "agent": "system", "message": "Registered proximity agent", "data": {}}
+[SYSTEM] Registered meta_review agent
+{"timestamp": "2025-03-18T20:58:55.570546", "level": "INFO", "session_id": "session_1742311735", "agent": "system", "message": "Registered meta_review agent", "data": {}}
+[SYSTEM] Supervisor agent started
+{"timestamp": "2025-03-18T20:58:55.572560", "level": "INFO", "session_id": "session_1742311735", "agent": "system", "message": "Supervisor agent started", "data": {}}
+[SYSTEM] Registered generation agent
+{"timestamp": "2025-03-18T21:01:20.516473", "level": "INFO", "session_id": "session_1742311880", "agent": "system", "message": "Registered generation agent", "data": {}}
+[SYSTEM] Registered reflection agent
+{"timestamp": "2025-03-18T21:01:20.516473", "level": "INFO", "session_id": "session_1742311880", "agent": "system", "message": "Registered reflection agent", "data": {}}
+[SYSTEM] Registered ranking agent
+{"timestamp": "2025-03-18T21:01:20.518012", "level": "INFO", "session_id": "session_1742311880", "agent": "system", "message": "Registered ranking agent", "data": {}}
+[SYSTEM] Registered evolution agent
+{"timestamp": "2025-03-18T21:01:20.519023", "level": "INFO", "session_id": "session_1742311880", "agent": "system", "message": "Registered evolution agent", "data": {}}
+[SYSTEM] Registered proximity agent
+{"timestamp": "2025-03-18T21:01:20.519023", "level": "INFO", "session_id": "session_1742311880", "agent": "system", "message": "Registered proximity agent", "data": {}}
+[SYSTEM] Registered meta_review agent
+{"timestamp": "2025-03-18T21:01:20.520029", "level": "INFO", "session_id": "session_1742311880", "agent": "system", "message": "Registered meta_review agent", "data": {}}
+[SYSTEM] Supervisor agent started
+{"timestamp": "2025-03-18T21:01:20.522022", "level": "INFO", "session_id": "session_1742311880", "agent": "system", "message": "Supervisor agent started", "data": {}}
+[SYSTEM] Registered generation agent
+{"timestamp": "2025-03-18T21:07:50.985833", "level": "INFO", "session_id": "session_1742312270", "agent": "system", "message": "Registered generation agent", "data": {}}
+[SYSTEM] Registered reflection agent
+{"timestamp": "2025-03-18T21:07:50.986836", "level": "INFO", "session_id": "session_1742312270", "agent": "system", "message": "Registered reflection agent", "data": {}}
+[SYSTEM] Registered ranking agent
+{"timestamp": "2025-03-18T21:07:50.987859", "level": "INFO", "session_id": "session_1742312270", "agent": "system", "message": "Registered ranking agent", "data": {}}
+[SYSTEM] Registered evolution agent
+{"timestamp": "2025-03-18T21:07:50.987859", "level": "INFO", "session_id": "session_1742312270", "agent": "system", "message": "Registered evolution agent", "data": {}}
+[SYSTEM] Registered proximity agent
+{"timestamp": "2025-03-18T21:07:50.988837", "level": "INFO", "session_id": "session_1742312270", "agent": "system", "message": "Registered proximity agent", "data": {}}
+[SYSTEM] Registered meta_review agent
+{"timestamp": "2025-03-18T21:07:50.988837", "level": "INFO", "session_id": "session_1742312270", "agent": "system", "message": "Registered meta_review agent", "data": {}}
+[SYSTEM] Supervisor agent started
+{"timestamp": "2025-03-18T21:07:50.990836", "level": "INFO", "session_id": "session_1742312270", "agent": "system", "message": "Supervisor agent started", "data": {}}
+[SYSTEM] Registered generation agent
+{"timestamp": "2025-03-18T21:10:22.269230", "level": "INFO", "session_id": "session_1742312422", "agent": "system", "message": "Registered generation agent", "data": {}}
+[SYSTEM] Registered reflection agent
+{"timestamp": "2025-03-18T21:10:22.269230", "level": "INFO", "session_id": "session_1742312422", "agent": "system", "message": "Registered reflection agent", "data": {}}
+[SYSTEM] Registered ranking agent
+{"timestamp": "2025-03-18T21:10:22.270229", "level": "INFO", "session_id": "session_1742312422", "agent": "system", "message": "Registered ranking agent", "data": {}}
+[SYSTEM] Registered evolution agent
+{"timestamp": "2025-03-18T21:10:22.270229", "level": "INFO", "session_id": "session_1742312422", "agent": "system", "message": "Registered evolution agent", "data": {}}
+[SYSTEM] Registered proximity agent
+{"timestamp": "2025-03-18T21:10:22.271239", "level": "INFO", "session_id": "session_1742312422", "agent": "system", "message": "Registered proximity agent", "data": {}}
+[SYSTEM] Registered meta_review agent
+{"timestamp": "2025-03-18T21:10:22.272243", "level": "INFO", "session_id": "session_1742312422", "agent": "system", "message": "Registered meta_review agent", "data": {}}
+[SYSTEM] Supervisor agent started
+{"timestamp": "2025-03-18T21:10:22.273245", "level": "INFO", "session_id": "session_1742312422", "agent": "system", "message": "Supervisor agent started", "data": {}}

@@ -1,0 +1,1047 @@
+{
+  "memory": {
+    "session_20250318184138_init": {
+      "data": {
+        "query": "Impact of AI on Forensic Investigations",
+        "session_id": "session_20250318184138"
+      },
+      "metadata": {
+        "created": "2025-03-18T18:41:38.540476",
+        "last_accessed": "2025-03-18T18:41:38.540476",
+        "access_count": 0
+      },
+      "relevance": 1.0,
+      "timestamp": 1742303498.5404763
+    },
+    "result_1": {
+      "data": {
+        "result": {
+          "id": "hyp-1742386692-0",
+          "statement": "AI can enhance the efficiency and security of blockchain technology.",
+          "confidence": 0.8,
+          "rationale": "Sources suggest AI can address blockchain challenges like scalability and data management, potentially leading to more efficient and secure systems."
+        }
+      },
+      "metadata": {
+        "created": "2025-03-19T22:35:00.356901",
+        "last_accessed": "2025-03-19T22:35:00.356901",
+        "access_count": 0
+      },
+      "relevance": 1.0,
+      "timestamp": 1742403900.3569007
+    },
+    "result_2": {
+      "data": {
+        "result": {
+          "id": "hyp-1742386692-1",
+          "statement": "AI can leverage blockchain's immutability and transparency to improve trust and data integrity in AI models.",
+          "confidence": 0.7,
+          "rationale": "Blockchain's inherent properties of immutability and transparency can be used to track and verify AI data and model training, potentially increasing trust and reducing bias."
+        }
+      },
+      "metadata": {
+        "created": "2025-03-19T22:35:00.372020",
+        "last_accessed": "2025-03-19T22:35:00.372020",
+        "access_count": 0
+      },
+      "relevance": 1.0,
+      "timestamp": 1742403900.3720202
+    },
+    "result_3": {
+      "data": {
+        "result": {
+          "id": "hyp-1742386692-2",
+          "statement": "The combination of AI and blockchain can create new business opportunities and drive innovation.",
+          "confidence": 0.9,
+          "rationale": "Sources like KPMG highlight the potential of AI and blockchain to create new business models and unlock value, particularly in areas like supply chain management and data sharing."
+        }
+      },
+      "metadata": {
+        "created": "2025-03-19T22:35:00.376450",
+        "last_accessed": "2025-03-19T22:35:00.376450",
+        "access_count": 0
+      },
+      "relevance": 1.0,
+      "timestamp": 1742403900.3764503
+    },
+    "result_4": {
+      "data": {
+        "result": {
+          "id": "hyp-1742386692-3",
+          "statement": "The integration of AI and blockchain poses challenges related to data privacy and regulatory compliance.",
+          "confidence": 0.6,
+          "rationale": "While not explicitly stated in the provided sources, the increasing use of AI and blockchain raises potential concerns around data privacy and the need for appropriate regulations."
+        }
+      },
+      "metadata": {
+        "created": "2025-03-19T22:35:00.385773",
+        "last_accessed": "2025-03-19T22:35:00.385773",
+        "access_count": 0
+      },
+      "relevance": 1.0,
+      "timestamp": 1742403900.3857727
+    },
+    "result_5": {
+      "data": {
+        "result": {
+          "id": "hyp-1742386692-4",
+          "statement": "AI can improve the scalability of blockchain technology.",
+          "confidence": 0.7,
+          "rationale": "AI algorithms can optimize data storage and processing on the blockchain, potentially addressing the scalability limitations that currently hinder wider adoption."
+        }
+      },
+      "metadata": {
+        "created": "2025-03-19T22:35:00.391773",
+        "last_accessed": "2025-03-19T22:35:00.391773",
+        "access_count": 0
+      },
+      "relevance": 1.0,
+      "timestamp": 1742403900.3917732
+    },
+    "gen_73a72031aeeb4d739c2b1a77c0191485_web_data_87beae24": {
+      "data": {
+        "type": "web_data",
+        "data": {
+          "source": "https://marymount.edu/blog/the-role-of-ai-in-forensics/",
+          "title": "The Role of AI in Forensics",
+          "content": "marymount.edu Verify you are human by completing the action below. marymount.edu needs to review the security of your connection before proceeding. Verification successful Waiting for marymount.edu to respond... Enable JavaScript and cookies to continue Ray ID: 922ee225bd3084f5 Performance & security by Cloudflare",
+          "metadata": {}
+        },
+        "session_id": "gen_73a72031aeeb4d739c2b1a77c0191485"
+      },
+      "metadata": {
+        "created": "2025-03-19T23:33:01.036566",
+        "last_accessed": "2025-03-19T23:33:01.036566",
+        "access_count": 0
+      },
+      "relevance": 0.8,
+      "timestamp": 1742407381.0365655
+    },
+    "gen_73a72031aeeb4d739c2b1a77c0191485_web_data_03e4fb8c": {
+      "data": {
+        "type": "web_data",
+        "data": {
+          "source": "https://maxhouck.substack.com/p/how-will-artificial-intelligence",
+          "title": "How will artificial intelligence influence forensic science and ...",
+          "content": "Artificial intelligence (AI) is poised to have a significant impact on forensic science and the interpretation of evidence in various ways.\n\nHere are some key ways in which AI is likely to influence this field:\n\nFingerprint Analysis\n\nDNA Analysis\n\nDigital Forensics\n\nFacial Recognition\n\nVoice Analysis\n\nBallistics Analysis\n\nCold Case Resolution\n\nBias reduction\n\nAI can assist forensic experts in analyzing fingerprints by automating the process of comparing and matching latent prints to known databases. This can significantly speed up the identification process.\n\nFor example, a machine learning model could be trained on a dataset of fingerprints, and then used to match a new fingerprint to a person in a database.\n\nAI can assist in DNA analysis by automating the interpretation of complex DNA profiles, identifying genetic markers, and helping in kinship analysis.\n\nAI can be used to identify patterns in large data sets by using techniques such as machine learning and deep learning. These techniques involve training a model on a large dataset of labeled examples, such as DNA, and then using the model to make predictions on new, unseen data.\n\nAI can be used to analyze digital evidence, such as computer files, emails, and social media data, to uncover evidence of cybercrime or aid in investigations involving electronic devices.\n\nAI algorithms can be trained to automatically analyze and extract information from images and videos, which can be used to enhance or clarify evidence.\n\nAI-based facial recognition systems can be used to identify individuals in images and videos, which can be crucial in criminal investigations and surveillance.\n\nAI algorithms can be trained to identify and analyze injuries or abnormalities in medical images, such as X-rays or CT scans. This can help forensic pathologists to more quickly and accurately identify the cause of death or injury.\n\nAI can help in voice analysis, including speaker identification, which can be used in criminal investigations and legal proceedings.\n\nAI can assist in matching bullets and shell casings to specific firearms, helping in firearm-related investigations.\n\nAI can be used to re-examine and re-evaluate evidence in cold cases, potentially leading to breakthroughs in unsolved cases.\n\nAI can be trained to reduce gender and racial biases in facial recognition technology and other methods. By refining algorithms to provide accurate results, AI can ensure more equitable outcomes in identification processes.\n\nEthical concerns to be considered when using AI\n\nBias in training data: AI models are only as good as the data they are trained on. If the training data is biased, the model will also be biased, which could lead to inaccurate or unfair results.\n\nLack of transparency: AI models can be complex and difficult to understand, making it difficult to explain how they arrived at a particular conclusion. This can be problematic in forensic science, where the results need to be transparent and able to stand up to legal scrutiny.\n\nPrivacy concerns: The use of AI in forensic science can raise privacy concerns, as the technology may be used to analyze sensitive personal information without the individual's consent.\n\nLack of regulation: There is currently a lack of regulation for the use of AI in forensic science, which can lead to problems if the technology is used in a way that is not appropriate or ethical.\n\nHuman oversight: AI models can make errors, and it is important that there is human oversight to ensure that the results are correct and fair.\n\nArtificial intelligence has the potential to significantly impact forensic science and the interpretation of evidence in a number of ways.\n\nA note about the author\n\nAll of the previous text and images in this presentation were generated by AI.\n\nI read every word verbatim. In my presentation at this point, I could see the audience shuffling and having uncomfortable looks\u2014this is definitely not how I normally give a talk. When I revealed the truth, that AI had generated the talk (and the abstract), you could see everyone\u2019s face light up with two realizations. One, that\u2019s why he was reading the slides, and, two, Whoa\u2014the whole thing was AI? We\u2019ve heard how AI will either destroy the world or save humanity. The reality is a little from Column A, a little from Column B.\n\nThis is an inflection point in history and we\u2019re living through it. That means we should all learn what we can about AI, play with it, get a feel for its strengths, its weaknesses, and how we can use and abuse it. The same principles apply as the rest of science and research: Good questions, sampling, proper analysis, and interpretations based on the outcomes regardless of what they are. You can\u2019t use 100 versions of the same image with different brightness and saturation settings, for example, and call that a sample of 100 images. Understanding AI and how it can help us personally and professionally is our responsibility: AI is a tool, like a hammer, and it can be used to build or destroy, depending on how we use it.\n\nGo, explore, play, but don\u2019t be afraid.",
+          "metadata": {}
+        },
+        "session_id": "gen_73a72031aeeb4d739c2b1a77c0191485"
+      },
+      "metadata": {
+        "created": "2025-03-19T23:33:10.081172",
+        "last_accessed": "2025-03-19T23:33:10.081172",
+        "access_count": 0
+      },
+      "relevance": 0.8,
+      "timestamp": 1742407390.0811715
+    },
+    "gen_73a72031aeeb4d739c2b1a77c0191485_web_data_7f659f5b": {
+      "data": {
+        "type": "web_data",
+        "data": {
+          "source": "https://www.oxygenforensics.com/en/resources/digital-investigations-with-ai/",
+          "title": "How AI can benefit your digital forensic investigation",
+          "content": "Approaching ubiquitous societal status, Artificial Intelligence (AI) powers and potential are attached to more and more everyday technology and processes. But how can AI help today\u2019s digital forensic investigations? The answer is in the search, or rather, powerful automated searches that can identify key evidence and produce deeper analysis while saving precious time.\n\nAs more personal and corporate technologies adopt AI capabilities, AI also will play a factor in more crimes and incidents that require investigation. Leveraging the powers of AI to close subsequent investigations will be critical for investigations run by law enforcement, government agencies, corporations, enterprises, and service providers.\n\nArtificial Intelligence uses in forensic investigations\n\nFor years, AI has been cheered and feared for its potential to exceed human capabilities for processing information and learning along the way. AI remains a broadly used descriptor among the general public that can, from an investigative point of view, be described as an automated tag team of Machine Learning (ML) and Natural Language Processing (NLP). These combined capabilities identify patterns, sort out anomalies, and link connections to help investigations uncover evidence and insights that might otherwise be missed.\n\nIn terms of digital computer forensic, mobile forensic and cloud forensic investigations, AI excels in sifting through extensive amounts of evidence, to recognize and identify relevant data in automated searches of images and videos, language and audio files. Some of its key applications include:\n\nImages and videos Facial categorization and image categorization Character and word recognition within images Targeted image and facial collection Object identification within multimedia evidence Eliminating irrelevant images and faces\n\nLanguage Translations Patterns Textual data Emails Chats Documents\n\nAudio forensics Automated speaker recognition based on unique vocal characteristics and matched against known samples or databases Speech enhancement for clearer, more intelligible recordings of conversations Anomaly detection among normal patterns in audio data Real-time speaker authentication\n\n\n\nBenefits of AI-powered investigation techniques\n\nAI\u2019s ability to navigate large volumes of data can also enhance analysis and provide better insight into that data. AI\u2019s analytic powers lie in identifying not only previously mentioned patterns, anomalies, and trends, but also subtle correlations and nuanced irregularities that traditional manual analysis could overlook.\n\nAI\u2019s automation and learning streamlines time-consuming tasks such as data collection, analysis, and report generation, reducing the time investigators must devote to search tasks. By using AI to perform repetitive and mundane processes, investigators can dedicate more time to critical thinking and the problem-solving aspects of each case. More time can be devoted to higher-value \u201cbig-picture\u201d tasks such as hypothesis generation, decision-making, and strategy development.\n\nStreamlined search and analytic processes close investigations faster, reducing backlogs and budgets. The automated capabilities of AI can help investigative teams offset staffing challenges during shortages of trained professionals or restrictions in budget and resources.\n\nRead: What is neural networks? \u2192\n\nIncorporating AI into your digital forensic investigations\n\nAs the challenges of discovering and analyzing evidence become more complex, so will the investigation tools needed to identify evidence and keep pace with caseloads. Leveraging AI capabilities will be imperative for law enforcement, government agencies, enterprises, and service providers to stay ahead of the curve with their approach to digital forensic investigations and the tools they use for optimum results.",
+          "metadata": {}
+        },
+        "session_id": "gen_73a72031aeeb4d739c2b1a77c0191485"
+      },
+      "metadata": {
+        "created": "2025-03-19T23:33:22.523168",
+        "last_accessed": "2025-03-19T23:33:22.523168",
+        "access_count": 0
+      },
+      "relevance": 0.8,
+      "timestamp": 1742407402.523168
+    },
+    "gen_73a72031aeeb4d739c2b1a77c0191485_web_data_6d48d002": {
+      "data": {
+        "type": "web_data",
+        "data": {
+          "source": "https://nij.ojp.gov/topics/articles/using-artificial-intelligence-address-criminal-justice-needs",
+          "title": "Using Artificial Intelligence to Address Criminal Justice Needs",
+          "content": "\u201cIntelligent machines\u201d have long been the subject of science fiction. However, we now live in an era in which artificial intelligence (Al) is a reality, and it is having very real and deep impacts on our daily lives. From phones to cars to finances and medical care, AI is shifting the way we live.\n\nAI applications can be found in many aspects of our lives, from agriculture to industry, communications, education, finance, government, service, manufacturing, medicine, and transportation. Even public safety and criminal justice are benefiting from AI. For example, traffic safety systems identify violations and enforce the rules of the road, and crime forecasts allow for more efficient allocation of policing resources. AI is also helping to identify the potential for an individual under criminal justice supervision to reoffend.[1]\n\nResearch supported by NIJ is helping to lead the way in applying AI to address criminal justice needs, such as identifying individuals and their actions in videos relating to criminal activity or public safety, DNA analysis, gunshot detection, and crime forecasting.\n\nWhat Is Artificial Intelligence?\n\nAI is a rapidly advancing field of computer science. In the mid-1950s, John McCarthy, who has been credited as the father of AI, defined it as \u201cthe science and engineering of making intelligent machines.\u201d[2] Conceptually, AI is the ability of a machine to perceive and respond to its environment independently and perform tasks that would typically require human intelligence and decision-making processes, but without direct human intervention.\n\nSee \u201cA Brief History of Artificial Intelligence\u201d\n\nOne facet of human intelligence is the ability to learn from experience. Machine learning is an application of AI that mimics this ability and enables machines and their software to learn from experience.[3] Particularly important from the criminal justice perspective is pattern recognition. Humans are efficient at recognizing patterns and, through experience, we learn to differentiate objects, people, complex human emotions, information, and conditions on a daily basis. AI seeks to replicate this human capability in software algorithms and computer hardware. For example, self-learning algorithms use data sets to understand how to identify people based on their images, complete intricate computational and robotics tasks, understand purchasing habits and patterns online, detect medical conditions from complex radiological scans, and make stock market predictions.\n\nApplications for Criminal Justice and Public Safety\n\nAI is being researched as a public safety resource in numerous ways. One particular AI application \u2014 facial recognition \u2014 can be found everywhere in both the public and the private sectors.[4] Intelligence analysts, for example, often rely on facial images to help establish an individual\u2019s identity and whereabouts. Examining the huge volume of possibly relevant images and videos in an accurate and timely manner is a time-consuming, painstaking task, with the potential for human error due to fatigue and other factors. Unlike humans, machines do not tire. Through initiatives such as the Intelligence Advanced Research Projects Activity\u2019s Janus computer-vision project, analysts are performing trials on the use of algorithms that can learn how to distinguish one person from another using facial features in the same manner as a human analyst.[5]\n\nSee \u201cThe National Artificial Intelligence Research and Development Strategic Plan\u201d\n\nThe U.S. Department of Transportation is also looking to increase public safety through researching, developing, and testing automatic traffic accident detection based on video to help maintain safe and efficient commuter traffic over various locations and weather, lighting, and traffic conditions.[6] AI algorithms are being used in medicine to interpret radiological images, which could have important implications for the criminal justice and medical examiner communities when establishing cause and manner of death.[7] AI algorithms have also been explored in various disciplines in forensic science, including DNA analysis.[8]\n\nAI is also quickly becoming an important technology in fraud detection.[9] Internet companies like PayPal stay ahead of fraud attempts by using volumes of data to continuously train their fraud detection algorithms to predict and recognize anomalous patterns and to learn to recognize new patterns.[10]\n\nNIJ\u2019s Artificial Intelligence Research Portfolio\n\nThe AI research that NIJ supports falls primarily into four areas: public safety video and image analysis, DNA analysis, gunshot detection, and crime forecasting.\n\nPublic safety video and image analysis\n\nVideo and image analysis is used in the criminal justice and law enforcement communities to obtain information regarding people, objects, and actions to support criminal investigations. However, the analysis of video and image information is very labor-intensive, requiring a significant investment in personnel with subject matter expertise. Video and image analysis is also prone to human error due to the sheer volume of information, the fast pace of changing technologies such as smartphones and operating systems, and a limited number of specialized personnel with the knowledge to process such information.\n\nAI technologies provide the capacity to overcome such human errors and to function as experts. Traditional software algorithms that assist humans are limited to predetermined features such as eye shape, eye color, and distance between eyes for facial recognition or demographics information for pattern analysis. AI video and image algorithms not only learn complex tasks but also develop and determine their own independent complex facial recognition features/parameters to accomplish these tasks, beyond what humans may consider. These algorithms have the potential to match faces, identify weapons and other objects, and detect complex events such as accidents and crimes in progress or after the fact.\n\nIn response to the needs of the criminal justice and law enforcement communities, NIJ has invested in several areas to improve the speed, quality, and specificity of data collection, imaging, and analysis and to improve contextual information.\n\nFor instance, to understand the potential benefits of AI in terms of speed, researchers at the University of Texas at Dallas, with funding from NIJ and in partnership with the FBI and the National Institute of Standards and Technology, are assessing facial identification by humans and examining methods for effectively comparing AI algorithms and expert facial examiners. Preliminary results show that when the researchers limit the recognition time to 30 seconds, AI-based facial-recognition algorithms developed in 2017 perform comparably to human facial examiners.[11] The implications of these findings are that AI-based algorithms can potentially be used as a \u201csecond pair of eyes\u201d to increase the accuracy of expert human facial examiners and to triage data to increase productivity.\n\nIn addition, in response to the need for higher quality information and the ability to use lower quality images more effectively, Carnegie Mellon University is using NIJ funding to develop AI algorithms to improve detection, recognition, and identification. One particularly important aspect is the university\u2019s work on images in which an individual\u2019s face is captured at different angles or is partially to the side, and when the individual is looking away from the camera, obscured by masks or helmets, or blocked by lamp posts or lighting. The researchers are also working with low-quality facial image construction, including images with poor resolution and low ambient light levels, where the image quality makes facial matching difficult. NIJ\u2019s test and evaluation center is currently testing and evaluating these algorithms.[12]\n\nFinally, to decipher a license plate (which could help identify a suspect or aid in an investigation) or identify a person in extremely low-quality images or video, researchers at Dartmouth College are using AI algorithms that systematically degrade high-quality images and compare them with low-quality ones to better recognize lower quality images and video. For example, clear images of numbers and letters are slowly degraded to emulate low-quality images. The degraded images are then expressed and catalogued as mathematical representations. These degraded mathematical representations can then be compared with low-quality license plate images to help identify the license plate.[13]\n\nAlso being explored is the notion of \u201cscene understanding,\u201d or the ability to develop text that describes the relationship between objects (people, places, and things) in a series of images to provide context. For example, the text may be \u201cPistol being drawn by a person and discharging into a store window.\u201d The goal is to detect objects and activities that will help identify crimes in progress for live observation and intervention as well as to support investigations after the fact.[14] Scene understanding over multiple scenes can indicate potentially important events that law enforcement should view to confirm and follow. One group of researchers at the University of Central Florida, in partnership with the Orlando Police Department, is using NIJ funding to develop algorithms to identify objects in videos, such as people, cars, weapons, and buildings, without human intervention. They are also developing algorithms to identify actions such as traffic accidents and violent crimes.\n\nAnother important aspect of AI is the ability to predict behavior. In contrast to the imaging and identification of criminal activity in progress, the University of Houston has used NIJ funding to develop algorithms that provide continuous monitoring to assess activity and predict emergent suspicious and criminal behavior across a network of cameras. This work also concentrates on using clothing, skeletal structure, movement, and direction prediction to identify and re-acquire people of interest across multiple cameras and images.[15]\n\nDNA analysis\n\nAI can also benefit the law enforcement community from a scientific and evidence processing standpoint. This is particularly true in forensic DNA testing, which has had an unprecedented impact on the criminal justice system over the past several decades.\n\nBiological material, such as blood, saliva, semen, and skin cells, can be transferred through contact with people and objects during the commission of a crime. As DNA technology has advanced, so has the sensitivity of DNA analysis, allowing forensic scientists to detect and process low-level, degraded, or otherwise unviable DNA evidence that could not have been used previously. For example, decades-old DNA evidence from violent crimes such as sexual assaults and homicide cold cases is now being submitted to laboratories for analysis. As a result of increased sensitivity, smaller amounts of DNA can be detected, which leads to the possibility of detecting DNA from multiple contributors, even at very low levels. These and other developments are presenting new challenges for crime laboratories. For instance, when using highly sensitive methods on items of evidence, it may be possible to detect DNA from multiple individuals or from someone not associated with the crime at all \u2014 thus creating the issue of DNA mixture interpretation and the need to separate and identify (or \u201cdeconvolute\u201d) individual profiles to generate critical investigative leads for law enforcement.\n\nAI may have the potential to address this challenge. DNA analysis produces large amounts of complex data in electronic format; these data contain patterns, some of which may be beyond the range of human analysis but may prove useful as systems increase in sensitivity. To explore this area, researchers at Syracuse University partnered with the Onondaga County Center for Forensic Sciences and the New York City Office of Chief Medical Examiner\u2019s Department of Forensic Biology to investigate a novel machine learning-based method of mixture deconvolution. With an NIJ research award, the Syracuse University team worked to combine the strengths of approaches involving human analysts with data mining and AI algorithms. The team used this hybrid approach to separate and identify individual DNA profiles to minimize the potential weaknesses inherent in using one approach in isolation. Although ongoing evaluation of the use of AI techniques is needed and there are many factors that can influence the ability to parse out individual DNA donors, research shows that AI technology has the potential to assist in these complicated analyses.[16]\n\nGunshot detection\n\nThe discovery of pattern signatures in gunshot analysis offers another area in which to use AI algorithms. In one project, NIJ funded Cadre Research Labs, LLC, to analyze gunshot audio files from smartphones and smart devices \u201cbased on the observation that the content and quality of gunshot recordings are influenced by firearm and ammunition type, the scene geometry, and the recording device used.\u201d[17] Using a well-defined mathematical model, the Cadre scientists are working to develop algorithms to detect gunshots, differentiate muzzle blasts from shock waves, determine shot-to-shot timings, determine the number of firearms present, assign specific shots to firearms, and estimate probabilities of class and caliber \u2014 all of which could help law enforcement in investigations.[18]\n\nCrime forecasting\n\nPredictive analysis is a complex process that uses large volumes of data to forecast and formulate potential outcomes. In criminal justice, this job rests mainly with police, probation practitioners, and other professionals, who must gain expertise over many years. The work is time-consuming and subject to bias and error.[19]\n\nWith AI, volumes of information on law and legal precedence, social information, and media can be used to suggest rulings, identify criminal enterprises, and predict and reveal people at risk from criminal enterprises. NIJ-supported researchers at the University of Pittsburgh are investigating and designing computational approaches to statutory interpretation that could potentially increase the speed and quality of statutory interpretation performed by judges, attorneys, prosecutors, administrative staff, and other professionals. The researchers hypothesize that a computer program can automatically recognize specific types of statements that play the most important roles in statutory interpretation. The goal is to develop a proof-of-concept expert system to support interpretation and perform it automatically for cybercrime.[20]\n\nAI is also capable of analyzing large volumes of criminal justice-related records to predict potential criminal recidivism. Researchers at the Research Triangle Institute, in partnership with the Durham Police Department and the Anne Arundel Sheriff\u2019s Department, are working to create an automated warrant service triage tool for the North Carolina Statewide Warrant Repository. The NIJ-supported team is using algorithms to analyze data sets with more than 340,000 warrant records. The algorithms form decision trees and perform survival analysis to determine the time span until the next occurrence of an event of interest and predict the risk of re-offending for absconding individuals (if a warrant goes unserved). This model will help practitioners triage warrant service when backlogs exist. The resulting tool will also be geographically referenced so that practitioners can pursue concentrations of high-risk absconders \u2014 along with others who have active warrants \u2014 to optimize resources.[21]\n\nAI can also help determine potential elder victims of physical and financial abuse. NIJ-funded researchers at the University of Texas Health Science Center at Houston used AI algorithms to analyze elder victimization. The algorithms can determine the victim, the person who committed the crime, and environmental factors that distinguish between financial exploitation and other forms of elder abuse. They can also differentiate \u201cpure\u201d financial exploitation (when the victim of financial exploitation experiences no other abuse) from \u201chybrid\u201d financial exploitation (when physical abuse or neglect accompanies financial exploitation). The researchers hope that these data algorithms can be transformed into web-based applications so that practitioners can reliably determine the likelihood that financial exploitation is occurring and quickly intervene.[22]\n\nFinally, AI is being used to predict potential victims of violent crime based on associations and behavior. The Chicago Police Department and the Illinois Institute of Technology used algorithms to collect information and form initial groupings that focus on constructing social networks and performing analysis to determine potential high-risk individuals. This NIJ-supported research has since become a part of the Chicago Police Department\u2019s Violence Reduction Strategy.[23]\n\nThe Future of AI in Criminal Justice\n\nEvery day holds the potential for new AI applications in criminal justice, paving the way for future possibilities to assist in the criminal justice system and ultimately improve public safety.\n\nVideo analytics for integrated facial recognition, the detection of individuals in multiple locations via closed-circuit television or across multiple cameras, and object and activity detection could prevent crimes through movement and pattern analysis, recognize crimes in progress, and help investigators identify suspects. With technology such as cameras, video, and social media generating massive volumes of data, AI could detect crimes that would otherwise go undetected and help ensure greater public safety by investigating potential criminal activity, thus increasing community confidence in law enforcement and the criminal justice system. AI also has the potential to assist the nation\u2019s crime laboratories in areas such as complex DNA mixture analysis.\n\nPattern analysis of data could be used to disrupt, degrade, and prosecute crimes and criminal enterprises. Algorithms could also help prevent victims and individuals from falling into criminal pursuits and assist criminal justice professionals in safeguarding the public in ways never before imagined.\n\nAI technology also has the potential to provide law enforcement with situational awareness and context, thus aiding in police well-being due to better informed responses to possibly dangerous situations. Technology that includes robotics and drones could also perform public safety surveillance, be integrated into overall public safety systems, and provide a safe alternative to putting police and the public in harm\u2019s way. Robotics and drones could also perform recovery, provide valuable intelligence, and augment criminal justice professionals in ways not yet contrived.\n\nBy using AI and predictive policing analytics integrated with computer-aided response and live public safety video enterprises, law enforcement will be better able to respond to incidents, prevent threats, stage interventions, divert resources, and investigate and analyze criminal activity. AI has the potential to be a permanent part of our criminal justice ecosystem, providing investigative assistance and allowing criminal justice professionals to better maintain public safety.\n\nSidebar: The National Artificial Intelligence Research and Development Strategic Plan\n\nOn May 3, 2016, the White House announced a series of actions to spur public dialogue on artificial intelligence (AI), identify challenges and opportunities related to this technology, aid in the use of Al for more effective government, and prepare for the potential benefits and risks of Al. As part of these actions, the White House directed the creation of a national strategy for AI research and development. Following is a summary of the plan\u2019s areas and intent.[24]\n\nManufacturing\n\nIncrease U.S. manufacturing by using robotics\n\nImprove worker health and safety\n\nImprove product quality and reduce costs\n\nAccelerate production capabilities\n\nImprove demand forecasting\n\nIncrease flexibility in operations and the supply chain\n\nPredict impacts to manufacturing operations\n\nImprove scheduling of processes and reduce inventory requirements\n\nLogistics\n\nImprove supply chains with adaptive scheduling and routing\n\nProvide more robust supply chains\n\nFinance\n\nAllow early detection of risk\n\nReduce malicious behavior and fraud\n\nIncrease efficiency and reduce volatility\n\nPrevent systemic failures\n\nTransportation\n\nImprove structural health monitoring and infrastructure management\n\nReduce the cost of repair and reconstruction\n\nMake vehicular travel safer\n\nProvide real-time route information\n\nImprove transportation networks and reduce emissions\n\nAgriculture\n\nImprove production, processing, and storage\n\nImprove distribution and consumption of agricultural products\n\nGather data about crops to remove weeds and pests more efficiently\n\nApply treatments (water, fertilizer, etc.) strategically\n\nFill labor gaps\n\nMarketing\n\nProvide a better match of supply with demand\n\nDrive up revenue for private-sector development\n\nAnticipate consumer needs, and find products and services\n\nReduce costs\n\nCommunications\n\nMaximize efficient bandwidth use\n\nAutomate information storage and retrieval\n\nImprove filter, search, translation, and summarization functions\n\nScience and Technology\n\nAssist in knowledge accumulation\n\nRefine theories\n\nGenerate hypotheses and perform experiments using simulations\n\nEducation\n\nProvide automated tutoring and instruction\n\nImprove personalized programs and evaluation\n\nProvide life-long learning and new skills for the total population\n\nMedicine\n\nUse bioinformatics to identify genetic risk from large-scale studies\n\nPredict safety and efficacy of pharmaceuticals\n\nDevelop new pharmaceutical compounds\n\nCustomize medicine\n\nDiagnose conditions and recommend treatment\n\nLaw\n\nAnalyze case law history\n\nAssist with discovery process\n\nSummarize evidence\n\nPersonal Services\n\nProvide natural language systems for an easier interface and user experience\n\nProvide automated personal assistants\n\nAllow group scheduling\n\nSecurity and Law Enforcement\n\nDetect patterns and anomalous behavior\n\nPredict crowd behavior and crime patterns\n\nProtect critical infrastructure\n\nUncover criminal networks\n\nSafety and Prediction\n\nPredict infrastructure disruptions with distributed sensor systems and pattern information\n\nAdapt operations for minimal impact\n\nReturn to text.\n\nAbout This Article\n\nThis article was published as part of NIJ Journal issue number 280, December 2018.\n\nThis article discusses the following grants:",
+          "metadata": {}
+        },
+        "session_id": "gen_73a72031aeeb4d739c2b1a77c0191485"
+      },
+      "metadata": {
+        "created": "2025-03-19T23:33:29.218665",
+        "last_accessed": "2025-03-19T23:33:29.218665",
+        "access_count": 0
+      },
+      "relevance": 0.8,
+      "timestamp": 1742407409.2186651
+    },
+    "gen_73a72031aeeb4d739c2b1a77c0191485_hypothesis_313c98a4": {
+      "data": {
+        "type": "hypothesis",
+        "data": {
+          "id": "hyp-1742407416-0",
+          "statement": "AI is being used to automate and improve the accuracy of various forensic analysis tasks, such as fingerprint analysis, DNA analysis, and facial recognition.",
+          "confidence": 0.9,
+          "rationale": "Source 2 explicitly lists these areas as applications of AI in forensics, and Source 3 implies automation as a key benefit of AI in digital forensics.",
+          "sources": [],
+          "source_urls": [],
+          "created_at": 1742407416.890522
+        },
+        "session_id": "gen_73a72031aeeb4d739c2b1a77c0191485"
+      },
+      "metadata": {
+        "created": "2025-03-19T23:33:38.937032",
+        "last_accessed": "2025-03-19T23:33:38.937032",
+        "access_count": 0
+      },
+      "relevance": 0.9,
+      "timestamp": 1742407418.9370325
+    },
+    "gen_73a72031aeeb4d739c2b1a77c0191485_hypothesis_b0494e71": {
+      "data": {
+        "type": "hypothesis",
+        "data": {
+          "id": "hyp-1742407416-1",
+          "statement": "AI is being employed to accelerate digital forensic investigations by automating searches for key evidence and enabling deeper analysis.",
+          "confidence": 0.8,
+          "rationale": "Source 3 specifically focuses on the benefits of AI in digital forensics, highlighting automated searches and deeper analysis as key advantages.",
+          "sources": [],
+          "source_urls": [],
+          "created_at": 1742407416.890522
+        },
+        "session_id": "gen_73a72031aeeb4d739c2b1a77c0191485"
+      },
+      "metadata": {
+        "created": "2025-03-19T23:33:40.985514",
+        "last_accessed": "2025-03-19T23:33:40.985514",
+        "access_count": 0
+      },
+      "relevance": 0.8,
+      "timestamp": 1742407420.985514
+    },
+    "gen_73a72031aeeb4d739c2b1a77c0191485_hypothesis_ba1ac651": {
+      "data": {
+        "type": "hypothesis",
+        "data": {
+          "id": "hyp-1742407416-2",
+          "statement": "AI has the potential to reduce bias in forensic investigations.",
+          "confidence": 0.7,
+          "rationale": "Source 2 mentions bias reduction as a potential impact of AI, though without detailed explanation.  Further research is needed to validate the extent and effectiveness of this application.",
+          "sources": [],
+          "source_urls": [],
+          "created_at": 1742407416.891568
+        },
+        "session_id": "gen_73a72031aeeb4d739c2b1a77c0191485"
+      },
+      "metadata": {
+        "created": "2025-03-19T23:33:43.050818",
+        "last_accessed": "2025-03-19T23:33:43.050818",
+        "access_count": 0
+      },
+      "relevance": 0.7,
+      "timestamp": 1742407423.0508184
+    },
+    "gen_73a72031aeeb4d739c2b1a77c0191485_hypothesis_54ca6a1c": {
+      "data": {
+        "type": "hypothesis",
+        "data": {
+          "id": "hyp-1742407416-3",
+          "statement": "The increasing prevalence of AI in everyday technologies will lead to its increased involvement in both the perpetration and investigation of crimes.",
+          "confidence": 0.7,
+          "rationale": "Source 3 suggests that the growing adoption of AI in various technologies will make it a factor in more crimes and incidents, necessitating its use in investigations as well.",
+          "sources": [],
+          "source_urls": [],
+          "created_at": 1742407416.891568
+        },
+        "session_id": "gen_73a72031aeeb4d739c2b1a77c0191485"
+      },
+      "metadata": {
+        "created": "2025-03-19T23:33:45.118737",
+        "last_accessed": "2025-03-19T23:33:45.118737",
+        "access_count": 0
+      },
+      "relevance": 0.7,
+      "timestamp": 1742407425.1187367
+    },
+    "gen_73a72031aeeb4d739c2b1a77c0191485_hypothesis_648a61be": {
+      "data": {
+        "type": "hypothesis",
+        "data": {
+          "id": "hyp-1742407416-4",
+          "statement": "AI can assist in resolving cold cases by analyzing large datasets and identifying previously overlooked connections or patterns.",
+          "confidence": 0.6,
+          "rationale": "Source 2 lists cold case resolution as an area where AI can be impactful.  This likely involves analyzing existing data, but further research is needed to confirm the specific mechanisms.",
+          "sources": [],
+          "source_urls": [],
+          "created_at": 1742407416.891568
+        },
+        "session_id": "gen_73a72031aeeb4d739c2b1a77c0191485"
+      },
+      "metadata": {
+        "created": "2025-03-19T23:33:47.175314",
+        "last_accessed": "2025-03-19T23:33:47.175314",
+        "access_count": 0
+      },
+      "relevance": 0.6,
+      "timestamp": 1742407427.1753142
+    },
+    "gen_73a72031aeeb4d739c2b1a77c0191485_generation_summary_c5621864": {
+      "data": {
+        "type": "generation_summary",
+        "data": {
+          "query": "How are AI technologies being used in forensic investigations?",
+          "web_data_count": 4,
+          "hypotheses_count": 5,
+          "timestamp": 1742407427.1848652
+        },
+        "session_id": "gen_73a72031aeeb4d739c2b1a77c0191485"
+      },
+      "metadata": {
+        "created": "2025-03-19T23:33:49.238754",
+        "last_accessed": "2025-03-19T23:33:49.238754",
+        "access_count": 0
+      },
+      "relevance": 0.9,
+      "timestamp": 1742407429.2387543
+    },
+    "5824a784-a355-4552-8a66-375e2074f367_reflection_6919fc7e": {
+      "data": {
+        "type": "reflection",
+        "data": {
+          "reflection": {
+            "is_coherent": true,
+            "coherence_score": 1.0,
+            "has_supporting_evidence": true,
+            "supporting_facts": [
+              {
+                "fact": "Shor's algorithm, executable on quantum computers, can factor large numbers exponentially faster than classical algorithms, threatening RSA encryption.",
+                "source": "https://example.com/quantum-crypto"
+              }
+            ],
+            "contradictions": [],
+            "comments": [
+              "The hypothesis is logically coherent and directly supported by the provided web data. Source 1 explicitly states that Shor's algorithm, running on quantum computers, poses a threat to RSA encryption by factoring large numbers significantly faster than classical methods.  Source 2 indirectly supports this by highlighting the need for post-quantum cryptography specifically designed to resist attacks like Shor's algorithm. This implies the existence of a threat from quantum computers using algorithms like Shor's against current methods like RSA.",
+              "While the data supports the hypothesis, it's crucial to remember that the actual threat depends on the development of sufficiently powerful quantum computers.  Current quantum computers are not yet capable of breaking RSA encryption in practice."
+            ],
+            "query": "How do quantum computers affect cryptography?",
+            "hypothesis_id": "hyp_001"
+          },
+          "hypothesis_statement": "Quantum computers can break current RSA encryption methods through Shor's algorithm.",
+          "hypothesis_id": "hyp_001",
+          "timestamp": 1742408180.503322
+        },
+        "session_id": "5824a784-a355-4552-8a66-375e2074f367"
+      },
+      "metadata": {
+        "created": "2025-03-19T23:46:22.545499",
+        "last_accessed": "2025-03-19T23:46:22.545499",
+        "access_count": 0
+      },
+      "relevance": 1.0,
+      "timestamp": 1742408182.5454986
+    },
+    "5824a784-a355-4552-8a66-375e2074f367_reflection_3314d82b": {
+      "data": {
+        "type": "reflection",
+        "data": {
+          "reflection": {
+            "is_coherent": true,
+            "coherence_score": 1.0,
+            "has_supporting_evidence": true,
+            "supporting_facts": [
+              {
+                "fact": "Post-quantum cryptography refers to cryptographic algorithms that are thought to be secure against an attack by quantum computers.",
+                "source": "https://example.com/post-quantum"
+              },
+              {
+                "fact": "These algorithms are designed to resist quantum computing techniques like Shor's algorithm.",
+                "source": "https://example.com/post-quantum"
+              }
+            ],
+            "contradictions": [],
+            "comments": [
+              "The hypothesis is coherent and directly supported by the provided web data. Source 2 explicitly states that post-quantum cryptography is designed to resist attacks from quantum computers, including Shor's algorithm, which Source 1 highlights as a threat to current encryption methods like RSA.",
+              "While the provided data supports the hypothesis, it's important to note that 'thought to be secure' doesn't guarantee absolute security.  The field is constantly evolving, and new quantum algorithms or attacks could potentially emerge in the future."
+            ],
+            "query": "How do quantum computers affect cryptography?",
+            "hypothesis_id": "hyp_002"
+          },
+          "hypothesis_statement": "Post-quantum cryptography algorithms can resist quantum computer attacks.",
+          "hypothesis_id": "hyp_002",
+          "timestamp": 1742408187.1205516
+        },
+        "session_id": "5824a784-a355-4552-8a66-375e2074f367"
+      },
+      "metadata": {
+        "created": "2025-03-19T23:46:29.171684",
+        "last_accessed": "2025-03-19T23:46:29.171684",
+        "access_count": 0
+      },
+      "relevance": 1.0,
+      "timestamp": 1742408189.171684
+    },
+    "session_247359c0_ranking_results_829d000d": {
+      "data": {
+        "type": "ranking_results",
+        "data": {
+          "query": "What are the latest advancements in quantum computing?",
+          "ranked_hypotheses": [
+            {
+              "id": "hyp_002",
+              "statement": "Error correction remains the biggest challenge in quantum computing.",
+              "scores": {
+                "coherence": 0.9,
+                "evidence": 0.4,
+                "relevance": 0.75,
+                "specificity": 0.34,
+                "novelty": 0.890818858560794,
+                "llm_credibility": 0.9
+              },
+              "overall_score": 6.9,
+              "rank_explanation": "The hypothesis is logically coherent. supported by 2 pieces of evidence. moderately relevant to the query. assessed as highly credible by llm.",
+              "rank": 1
+            },
+            {
+              "id": "hyp_003",
+              "statement": "Quantum machine learning is showing promise for certain optimization problems.",
+              "scores": {
+                "coherence": 0.7,
+                "evidence": 0.1,
+                "relevance": 0.65,
+                "specificity": 0.39,
+                "novelty": 0.9503657262277951,
+                "llm_credibility": 0.8
+              },
+              "overall_score": 5.5,
+              "rank_explanation": "The hypothesis is somewhat coherent. supported by 1 pieces of evidence. has 1 contradicting points. moderately relevant to the query. assessed as highly credible by llm.",
+              "rank": 2
+            },
+            {
+              "id": "hyp_001",
+              "statement": "Quantum computers have achieved quantum supremacy by solving problems no classical computer can solve.",
+              "scores": {
+                "coherence": 0.8,
+                "evidence": 0.1,
+                "relevance": 0.65,
+                "specificity": 0.5,
+                "novelty": 0.9067234848484849,
+                "llm_credibility": 0.5
+              },
+              "overall_score": 5.3,
+              "rank_explanation": "The hypothesis is logically coherent. supported by 1 pieces of evidence. has 1 contradicting points. moderately relevant to the query. has mixed credibility according to llm.",
+              "rank": 3
+            }
+          ],
+          "timestamp": 1742431181.1584015
+        },
+        "session_id": "session_247359c0"
+      },
+      "metadata": {
+        "created": "2025-03-20T06:09:43.194250",
+        "last_accessed": "2025-03-20T06:09:43.194250",
+        "access_count": 0
+      },
+      "relevance": 1.0,
+      "timestamp": 1742431183.1942496
+    },
+    "session_149d8136_ranking_results_544e2f16": {
+      "data": {
+        "type": "ranking_results",
+        "data": {
+          "query": "What are the latest advancements in quantum computing?",
+          "ranked_hypotheses": [
+            {
+              "id": "hyp_002",
+              "statement": "Error correction remains the biggest challenge in quantum computing.",
+              "scores": {
+                "coherence": 0.9,
+                "evidence": 0.4,
+                "relevance": 0.75,
+                "specificity": 0.34,
+                "novelty": 0.890818858560794,
+                "llm_credibility": 0.9
+              },
+              "overall_score": 6.9,
+              "rank_explanation": "The hypothesis is logically coherent. supported by 2 pieces of evidence. moderately relevant to the query. assessed as highly credible by llm.",
+              "rank": 1
+            },
+            {
+              "id": "hyp_003",
+              "statement": "Quantum machine learning is showing promise for certain optimization problems.",
+              "scores": {
+                "coherence": 0.7,
+                "evidence": 0.1,
+                "relevance": 0.65,
+                "specificity": 0.39,
+                "novelty": 0.9503657262277951,
+                "llm_credibility": 0.8
+              },
+              "overall_score": 5.5,
+              "rank_explanation": "The hypothesis is somewhat coherent. supported by 1 pieces of evidence. has 1 contradicting points. moderately relevant to the query. assessed as highly credible by llm.",
+              "rank": 2
+            },
+            {
+              "id": "hyp_001",
+              "statement": "Quantum computers have achieved quantum supremacy by solving problems no classical computer can solve.",
+              "scores": {
+                "coherence": 0.8,
+                "evidence": 0.1,
+                "relevance": 0.65,
+                "specificity": 0.5,
+                "novelty": 0.9067234848484849,
+                "llm_credibility": 0.5
+              },
+              "overall_score": 5.3,
+              "rank_explanation": "The hypothesis is logically coherent. supported by 1 pieces of evidence. has 1 contradicting points. moderately relevant to the query. has mixed credibility according to llm.",
+              "rank": 3
+            }
+          ],
+          "timestamp": 1742431914.9631882
+        },
+        "session_id": "session_149d8136"
+      },
+      "metadata": {
+        "created": "2025-03-20T06:21:57.014699",
+        "last_accessed": "2025-03-20T06:21:57.014699",
+        "access_count": 0
+      },
+      "relevance": 1.0,
+      "timestamp": 1742431917.0146995
+    }
+  },
+  "graph": {
+    "directed": true,
+    "multigraph": false,
+    "graph": {},
+    "nodes": [
+      {
+        "data": {
+          "query": "Impact of AI on Forensic Investigations",
+          "session_id": "session_20250318184138"
+        },
+        "metadata": {
+          "created": "2025-03-18T18:41:38.540476",
+          "last_accessed": "2025-03-18T18:41:38.540476",
+          "access_count": 0
+        },
+        "relevance": 1.0,
+        "timestamp": 1742303498.5404763,
+        "id": "session_20250318184138_init"
+      },
+      {
+        "data": {
+          "result": {
+            "id": "hyp-1742386692-0",
+            "statement": "AI can enhance the efficiency and security of blockchain technology.",
+            "confidence": 0.8,
+            "rationale": "Sources suggest AI can address blockchain challenges like scalability and data management, potentially leading to more efficient and secure systems."
+          }
+        },
+        "metadata": {
+          "created": "2025-03-19T22:35:00.356901",
+          "last_accessed": "2025-03-19T22:35:00.356901",
+          "access_count": 0
+        },
+        "relevance": 1.0,
+        "timestamp": 1742403900.3569007,
+        "id": "result_1"
+      },
+      {
+        "data": {
+          "result": {
+            "id": "hyp-1742386692-1",
+            "statement": "AI can leverage blockchain's immutability and transparency to improve trust and data integrity in AI models.",
+            "confidence": 0.7,
+            "rationale": "Blockchain's inherent properties of immutability and transparency can be used to track and verify AI data and model training, potentially increasing trust and reducing bias."
+          }
+        },
+        "metadata": {
+          "created": "2025-03-19T22:35:00.372020",
+          "last_accessed": "2025-03-19T22:35:00.372020",
+          "access_count": 0
+        },
+        "relevance": 1.0,
+        "timestamp": 1742403900.3720202,
+        "id": "result_2"
+      },
+      {
+        "data": {
+          "result": {
+            "id": "hyp-1742386692-2",
+            "statement": "The combination of AI and blockchain can create new business opportunities and drive innovation.",
+            "confidence": 0.9,
+            "rationale": "Sources like KPMG highlight the potential of AI and blockchain to create new business models and unlock value, particularly in areas like supply chain management and data sharing."
+          }
+        },
+        "metadata": {
+          "created": "2025-03-19T22:35:00.376450",
+          "last_accessed": "2025-03-19T22:35:00.376450",
+          "access_count": 0
+        },
+        "relevance": 1.0,
+        "timestamp": 1742403900.3764503,
+        "id": "result_3"
+      },
+      {
+        "data": {
+          "result": {
+            "id": "hyp-1742386692-3",
+            "statement": "The integration of AI and blockchain poses challenges related to data privacy and regulatory compliance.",
+            "confidence": 0.6,
+            "rationale": "While not explicitly stated in the provided sources, the increasing use of AI and blockchain raises potential concerns around data privacy and the need for appropriate regulations."
+          }
+        },
+        "metadata": {
+          "created": "2025-03-19T22:35:00.385773",
+          "last_accessed": "2025-03-19T22:35:00.385773",
+          "access_count": 0
+        },
+        "relevance": 1.0,
+        "timestamp": 1742403900.3857727,
+        "id": "result_4"
+      },
+      {
+        "data": {
+          "result": {
+            "id": "hyp-1742386692-4",
+            "statement": "AI can improve the scalability of blockchain technology.",
+            "confidence": 0.7,
+            "rationale": "AI algorithms can optimize data storage and processing on the blockchain, potentially addressing the scalability limitations that currently hinder wider adoption."
+          }
+        },
+        "metadata": {
+          "created": "2025-03-19T22:35:00.391773",
+          "last_accessed": "2025-03-19T22:35:00.391773",
+          "access_count": 0
+        },
+        "relevance": 1.0,
+        "timestamp": 1742403900.3917732,
+        "id": "result_5"
+      },
+      {
+        "data": {
+          "type": "web_data",
+          "data": {
+            "source": "https://marymount.edu/blog/the-role-of-ai-in-forensics/",
+            "title": "The Role of AI in Forensics",
+            "content": "marymount.edu Verify you are human by completing the action below. marymount.edu needs to review the security of your connection before proceeding. Verification successful Waiting for marymount.edu to respond... Enable JavaScript and cookies to continue Ray ID: 922ee225bd3084f5 Performance & security by Cloudflare",
+            "metadata": {}
+          },
+          "session_id": "gen_73a72031aeeb4d739c2b1a77c0191485"
+        },
+        "metadata": {
+          "created": "2025-03-19T23:33:01.036566",
+          "last_accessed": "2025-03-19T23:33:01.036566",
+          "access_count": 0
+        },
+        "relevance": 0.8,
+        "timestamp": 1742407381.0365655,
+        "id": "gen_73a72031aeeb4d739c2b1a77c0191485_web_data_87beae24"
+      },
+      {
+        "data": {
+          "type": "web_data",
+          "data": {
+            "source": "https://maxhouck.substack.com/p/how-will-artificial-intelligence",
+            "title": "How will artificial intelligence influence forensic science and ...",
+            "content": "Artificial intelligence (AI) is poised to have a significant impact on forensic science and the interpretation of evidence in various ways.\n\nHere are some key ways in which AI is likely to influence this field:\n\nFingerprint Analysis\n\nDNA Analysis\n\nDigital Forensics\n\nFacial Recognition\n\nVoice Analysis\n\nBallistics Analysis\n\nCold Case Resolution\n\nBias reduction\n\nAI can assist forensic experts in analyzing fingerprints by automating the process of comparing and matching latent prints to known databases. This can significantly speed up the identification process.\n\nFor example, a machine learning model could be trained on a dataset of fingerprints, and then used to match a new fingerprint to a person in a database.\n\nAI can assist in DNA analysis by automating the interpretation of complex DNA profiles, identifying genetic markers, and helping in kinship analysis.\n\nAI can be used to identify patterns in large data sets by using techniques such as machine learning and deep learning. These techniques involve training a model on a large dataset of labeled examples, such as DNA, and then using the model to make predictions on new, unseen data.\n\nAI can be used to analyze digital evidence, such as computer files, emails, and social media data, to uncover evidence of cybercrime or aid in investigations involving electronic devices.\n\nAI algorithms can be trained to automatically analyze and extract information from images and videos, which can be used to enhance or clarify evidence.\n\nAI-based facial recognition systems can be used to identify individuals in images and videos, which can be crucial in criminal investigations and surveillance.\n\nAI algorithms can be trained to identify and analyze injuries or abnormalities in medical images, such as X-rays or CT scans. This can help forensic pathologists to more quickly and accurately identify the cause of death or injury.\n\nAI can help in voice analysis, including speaker identification, which can be used in criminal investigations and legal proceedings.\n\nAI can assist in matching bullets and shell casings to specific firearms, helping in firearm-related investigations.\n\nAI can be used to re-examine and re-evaluate evidence in cold cases, potentially leading to breakthroughs in unsolved cases.\n\nAI can be trained to reduce gender and racial biases in facial recognition technology and other methods. By refining algorithms to provide accurate results, AI can ensure more equitable outcomes in identification processes.\n\nEthical concerns to be considered when using AI\n\nBias in training data: AI models are only as good as the data they are trained on. If the training data is biased, the model will also be biased, which could lead to inaccurate or unfair results.\n\nLack of transparency: AI models can be complex and difficult to understand, making it difficult to explain how they arrived at a particular conclusion. This can be problematic in forensic science, where the results need to be transparent and able to stand up to legal scrutiny.\n\nPrivacy concerns: The use of AI in forensic science can raise privacy concerns, as the technology may be used to analyze sensitive personal information without the individual's consent.\n\nLack of regulation: There is currently a lack of regulation for the use of AI in forensic science, which can lead to problems if the technology is used in a way that is not appropriate or ethical.\n\nHuman oversight: AI models can make errors, and it is important that there is human oversight to ensure that the results are correct and fair.\n\nArtificial intelligence has the potential to significantly impact forensic science and the interpretation of evidence in a number of ways.\n\nA note about the author\n\nAll of the previous text and images in this presentation were generated by AI.\n\nI read every word verbatim. In my presentation at this point, I could see the audience shuffling and having uncomfortable looks\u2014this is definitely not how I normally give a talk. When I revealed the truth, that AI had generated the talk (and the abstract), you could see everyone\u2019s face light up with two realizations. One, that\u2019s why he was reading the slides, and, two, Whoa\u2014the whole thing was AI? We\u2019ve heard how AI will either destroy the world or save humanity. The reality is a little from Column A, a little from Column B.\n\nThis is an inflection point in history and we\u2019re living through it. That means we should all learn what we can about AI, play with it, get a feel for its strengths, its weaknesses, and how we can use and abuse it. The same principles apply as the rest of science and research: Good questions, sampling, proper analysis, and interpretations based on the outcomes regardless of what they are. You can\u2019t use 100 versions of the same image with different brightness and saturation settings, for example, and call that a sample of 100 images. Understanding AI and how it can help us personally and professionally is our responsibility: AI is a tool, like a hammer, and it can be used to build or destroy, depending on how we use it.\n\nGo, explore, play, but don\u2019t be afraid.",
+            "metadata": {}
+          },
+          "session_id": "gen_73a72031aeeb4d739c2b1a77c0191485"
+        },
+        "metadata": {
+          "created": "2025-03-19T23:33:10.081172",
+          "last_accessed": "2025-03-19T23:33:10.081172",
+          "access_count": 0
+        },
+        "relevance": 0.8,
+        "timestamp": 1742407390.0811715,
+        "id": "gen_73a72031aeeb4d739c2b1a77c0191485_web_data_03e4fb8c"
+      },
+      {
+        "data": {
+          "type": "web_data",
+          "data": {
+            "source": "https://www.oxygenforensics.com/en/resources/digital-investigations-with-ai/",
+            "title": "How AI can benefit your digital forensic investigation",
+            "content": "Approaching ubiquitous societal status, Artificial Intelligence (AI) powers and potential are attached to more and more everyday technology and processes. But how can AI help today\u2019s digital forensic investigations? The answer is in the search, or rather, powerful automated searches that can identify key evidence and produce deeper analysis while saving precious time.\n\nAs more personal and corporate technologies adopt AI capabilities, AI also will play a factor in more crimes and incidents that require investigation. Leveraging the powers of AI to close subsequent investigations will be critical for investigations run by law enforcement, government agencies, corporations, enterprises, and service providers.\n\nArtificial Intelligence uses in forensic investigations\n\nFor years, AI has been cheered and feared for its potential to exceed human capabilities for processing information and learning along the way. AI remains a broadly used descriptor among the general public that can, from an investigative point of view, be described as an automated tag team of Machine Learning (ML) and Natural Language Processing (NLP). These combined capabilities identify patterns, sort out anomalies, and link connections to help investigations uncover evidence and insights that might otherwise be missed.\n\nIn terms of digital computer forensic, mobile forensic and cloud forensic investigations, AI excels in sifting through extensive amounts of evidence, to recognize and identify relevant data in automated searches of images and videos, language and audio files. Some of its key applications include:\n\nImages and videos Facial categorization and image categorization Character and word recognition within images Targeted image and facial collection Object identification within multimedia evidence Eliminating irrelevant images and faces\n\nLanguage Translations Patterns Textual data Emails Chats Documents\n\nAudio forensics Automated speaker recognition based on unique vocal characteristics and matched against known samples or databases Speech enhancement for clearer, more intelligible recordings of conversations Anomaly detection among normal patterns in audio data Real-time speaker authentication\n\n\n\nBenefits of AI-powered investigation techniques\n\nAI\u2019s ability to navigate large volumes of data can also enhance analysis and provide better insight into that data. AI\u2019s analytic powers lie in identifying not only previously mentioned patterns, anomalies, and trends, but also subtle correlations and nuanced irregularities that traditional manual analysis could overlook.\n\nAI\u2019s automation and learning streamlines time-consuming tasks such as data collection, analysis, and report generation, reducing the time investigators must devote to search tasks. By using AI to perform repetitive and mundane processes, investigators can dedicate more time to critical thinking and the problem-solving aspects of each case. More time can be devoted to higher-value \u201cbig-picture\u201d tasks such as hypothesis generation, decision-making, and strategy development.\n\nStreamlined search and analytic processes close investigations faster, reducing backlogs and budgets. The automated capabilities of AI can help investigative teams offset staffing challenges during shortages of trained professionals or restrictions in budget and resources.\n\nRead: What is neural networks? \u2192\n\nIncorporating AI into your digital forensic investigations\n\nAs the challenges of discovering and analyzing evidence become more complex, so will the investigation tools needed to identify evidence and keep pace with caseloads. Leveraging AI capabilities will be imperative for law enforcement, government agencies, enterprises, and service providers to stay ahead of the curve with their approach to digital forensic investigations and the tools they use for optimum results.",
+            "metadata": {}
+          },
+          "session_id": "gen_73a72031aeeb4d739c2b1a77c0191485"
+        },
+        "metadata": {
+          "created": "2025-03-19T23:33:22.523168",
+          "last_accessed": "2025-03-19T23:33:22.523168",
+          "access_count": 0
+        },
+        "relevance": 0.8,
+        "timestamp": 1742407402.523168,
+        "id": "gen_73a72031aeeb4d739c2b1a77c0191485_web_data_7f659f5b"
+      },
+      {
+        "data": {
+          "type": "web_data",
+          "data": {
+            "source": "https://nij.ojp.gov/topics/articles/using-artificial-intelligence-address-criminal-justice-needs",
+            "title": "Using Artificial Intelligence to Address Criminal Justice Needs",
+            "content": "\u201cIntelligent machines\u201d have long been the subject of science fiction. However, we now live in an era in which artificial intelligence (Al) is a reality, and it is having very real and deep impacts on our daily lives. From phones to cars to finances and medical care, AI is shifting the way we live.\n\nAI applications can be found in many aspects of our lives, from agriculture to industry, communications, education, finance, government, service, manufacturing, medicine, and transportation. Even public safety and criminal justice are benefiting from AI. For example, traffic safety systems identify violations and enforce the rules of the road, and crime forecasts allow for more efficient allocation of policing resources. AI is also helping to identify the potential for an individual under criminal justice supervision to reoffend.[1]\n\nResearch supported by NIJ is helping to lead the way in applying AI to address criminal justice needs, such as identifying individuals and their actions in videos relating to criminal activity or public safety, DNA analysis, gunshot detection, and crime forecasting.\n\nWhat Is Artificial Intelligence?\n\nAI is a rapidly advancing field of computer science. In the mid-1950s, John McCarthy, who has been credited as the father of AI, defined it as \u201cthe science and engineering of making intelligent machines.\u201d[2] Conceptually, AI is the ability of a machine to perceive and respond to its environment independently and perform tasks that would typically require human intelligence and decision-making processes, but without direct human intervention.\n\nSee \u201cA Brief History of Artificial Intelligence\u201d\n\nOne facet of human intelligence is the ability to learn from experience. Machine learning is an application of AI that mimics this ability and enables machines and their software to learn from experience.[3] Particularly important from the criminal justice perspective is pattern recognition. Humans are efficient at recognizing patterns and, through experience, we learn to differentiate objects, people, complex human emotions, information, and conditions on a daily basis. AI seeks to replicate this human capability in software algorithms and computer hardware. For example, self-learning algorithms use data sets to understand how to identify people based on their images, complete intricate computational and robotics tasks, understand purchasing habits and patterns online, detect medical conditions from complex radiological scans, and make stock market predictions.\n\nApplications for Criminal Justice and Public Safety\n\nAI is being researched as a public safety resource in numerous ways. One particular AI application \u2014 facial recognition \u2014 can be found everywhere in both the public and the private sectors.[4] Intelligence analysts, for example, often rely on facial images to help establish an individual\u2019s identity and whereabouts. Examining the huge volume of possibly relevant images and videos in an accurate and timely manner is a time-consuming, painstaking task, with the potential for human error due to fatigue and other factors. Unlike humans, machines do not tire. Through initiatives such as the Intelligence Advanced Research Projects Activity\u2019s Janus computer-vision project, analysts are performing trials on the use of algorithms that can learn how to distinguish one person from another using facial features in the same manner as a human analyst.[5]\n\nSee \u201cThe National Artificial Intelligence Research and Development Strategic Plan\u201d\n\nThe U.S. Department of Transportation is also looking to increase public safety through researching, developing, and testing automatic traffic accident detection based on video to help maintain safe and efficient commuter traffic over various locations and weather, lighting, and traffic conditions.[6] AI algorithms are being used in medicine to interpret radiological images, which could have important implications for the criminal justice and medical examiner communities when establishing cause and manner of death.[7] AI algorithms have also been explored in various disciplines in forensic science, including DNA analysis.[8]\n\nAI is also quickly becoming an important technology in fraud detection.[9] Internet companies like PayPal stay ahead of fraud attempts by using volumes of data to continuously train their fraud detection algorithms to predict and recognize anomalous patterns and to learn to recognize new patterns.[10]\n\nNIJ\u2019s Artificial Intelligence Research Portfolio\n\nThe AI research that NIJ supports falls primarily into four areas: public safety video and image analysis, DNA analysis, gunshot detection, and crime forecasting.\n\nPublic safety video and image analysis\n\nVideo and image analysis is used in the criminal justice and law enforcement communities to obtain information regarding people, objects, and actions to support criminal investigations. However, the analysis of video and image information is very labor-intensive, requiring a significant investment in personnel with subject matter expertise. Video and image analysis is also prone to human error due to the sheer volume of information, the fast pace of changing technologies such as smartphones and operating systems, and a limited number of specialized personnel with the knowledge to process such information.\n\nAI technologies provide the capacity to overcome such human errors and to function as experts. Traditional software algorithms that assist humans are limited to predetermined features such as eye shape, eye color, and distance between eyes for facial recognition or demographics information for pattern analysis. AI video and image algorithms not only learn complex tasks but also develop and determine their own independent complex facial recognition features/parameters to accomplish these tasks, beyond what humans may consider. These algorithms have the potential to match faces, identify weapons and other objects, and detect complex events such as accidents and crimes in progress or after the fact.\n\nIn response to the needs of the criminal justice and law enforcement communities, NIJ has invested in several areas to improve the speed, quality, and specificity of data collection, imaging, and analysis and to improve contextual information.\n\nFor instance, to understand the potential benefits of AI in terms of speed, researchers at the University of Texas at Dallas, with funding from NIJ and in partnership with the FBI and the National Institute of Standards and Technology, are assessing facial identification by humans and examining methods for effectively comparing AI algorithms and expert facial examiners. Preliminary results show that when the researchers limit the recognition time to 30 seconds, AI-based facial-recognition algorithms developed in 2017 perform comparably to human facial examiners.[11] The implications of these findings are that AI-based algorithms can potentially be used as a \u201csecond pair of eyes\u201d to increase the accuracy of expert human facial examiners and to triage data to increase productivity.\n\nIn addition, in response to the need for higher quality information and the ability to use lower quality images more effectively, Carnegie Mellon University is using NIJ funding to develop AI algorithms to improve detection, recognition, and identification. One particularly important aspect is the university\u2019s work on images in which an individual\u2019s face is captured at different angles or is partially to the side, and when the individual is looking away from the camera, obscured by masks or helmets, or blocked by lamp posts or lighting. The researchers are also working with low-quality facial image construction, including images with poor resolution and low ambient light levels, where the image quality makes facial matching difficult. NIJ\u2019s test and evaluation center is currently testing and evaluating these algorithms.[12]\n\nFinally, to decipher a license plate (which could help identify a suspect or aid in an investigation) or identify a person in extremely low-quality images or video, researchers at Dartmouth College are using AI algorithms that systematically degrade high-quality images and compare them with low-quality ones to better recognize lower quality images and video. For example, clear images of numbers and letters are slowly degraded to emulate low-quality images. The degraded images are then expressed and catalogued as mathematical representations. These degraded mathematical representations can then be compared with low-quality license plate images to help identify the license plate.[13]\n\nAlso being explored is the notion of \u201cscene understanding,\u201d or the ability to develop text that describes the relationship between objects (people, places, and things) in a series of images to provide context. For example, the text may be \u201cPistol being drawn by a person and discharging into a store window.\u201d The goal is to detect objects and activities that will help identify crimes in progress for live observation and intervention as well as to support investigations after the fact.[14] Scene understanding over multiple scenes can indicate potentially important events that law enforcement should view to confirm and follow. One group of researchers at the University of Central Florida, in partnership with the Orlando Police Department, is using NIJ funding to develop algorithms to identify objects in videos, such as people, cars, weapons, and buildings, without human intervention. They are also developing algorithms to identify actions such as traffic accidents and violent crimes.\n\nAnother important aspect of AI is the ability to predict behavior. In contrast to the imaging and identification of criminal activity in progress, the University of Houston has used NIJ funding to develop algorithms that provide continuous monitoring to assess activity and predict emergent suspicious and criminal behavior across a network of cameras. This work also concentrates on using clothing, skeletal structure, movement, and direction prediction to identify and re-acquire people of interest across multiple cameras and images.[15]\n\nDNA analysis\n\nAI can also benefit the law enforcement community from a scientific and evidence processing standpoint. This is particularly true in forensic DNA testing, which has had an unprecedented impact on the criminal justice system over the past several decades.\n\nBiological material, such as blood, saliva, semen, and skin cells, can be transferred through contact with people and objects during the commission of a crime. As DNA technology has advanced, so has the sensitivity of DNA analysis, allowing forensic scientists to detect and process low-level, degraded, or otherwise unviable DNA evidence that could not have been used previously. For example, decades-old DNA evidence from violent crimes such as sexual assaults and homicide cold cases is now being submitted to laboratories for analysis. As a result of increased sensitivity, smaller amounts of DNA can be detected, which leads to the possibility of detecting DNA from multiple contributors, even at very low levels. These and other developments are presenting new challenges for crime laboratories. For instance, when using highly sensitive methods on items of evidence, it may be possible to detect DNA from multiple individuals or from someone not associated with the crime at all \u2014 thus creating the issue of DNA mixture interpretation and the need to separate and identify (or \u201cdeconvolute\u201d) individual profiles to generate critical investigative leads for law enforcement.\n\nAI may have the potential to address this challenge. DNA analysis produces large amounts of complex data in electronic format; these data contain patterns, some of which may be beyond the range of human analysis but may prove useful as systems increase in sensitivity. To explore this area, researchers at Syracuse University partnered with the Onondaga County Center for Forensic Sciences and the New York City Office of Chief Medical Examiner\u2019s Department of Forensic Biology to investigate a novel machine learning-based method of mixture deconvolution. With an NIJ research award, the Syracuse University team worked to combine the strengths of approaches involving human analysts with data mining and AI algorithms. The team used this hybrid approach to separate and identify individual DNA profiles to minimize the potential weaknesses inherent in using one approach in isolation. Although ongoing evaluation of the use of AI techniques is needed and there are many factors that can influence the ability to parse out individual DNA donors, research shows that AI technology has the potential to assist in these complicated analyses.[16]\n\nGunshot detection\n\nThe discovery of pattern signatures in gunshot analysis offers another area in which to use AI algorithms. In one project, NIJ funded Cadre Research Labs, LLC, to analyze gunshot audio files from smartphones and smart devices \u201cbased on the observation that the content and quality of gunshot recordings are influenced by firearm and ammunition type, the scene geometry, and the recording device used.\u201d[17] Using a well-defined mathematical model, the Cadre scientists are working to develop algorithms to detect gunshots, differentiate muzzle blasts from shock waves, determine shot-to-shot timings, determine the number of firearms present, assign specific shots to firearms, and estimate probabilities of class and caliber \u2014 all of which could help law enforcement in investigations.[18]\n\nCrime forecasting\n\nPredictive analysis is a complex process that uses large volumes of data to forecast and formulate potential outcomes. In criminal justice, this job rests mainly with police, probation practitioners, and other professionals, who must gain expertise over many years. The work is time-consuming and subject to bias and error.[19]\n\nWith AI, volumes of information on law and legal precedence, social information, and media can be used to suggest rulings, identify criminal enterprises, and predict and reveal people at risk from criminal enterprises. NIJ-supported researchers at the University of Pittsburgh are investigating and designing computational approaches to statutory interpretation that could potentially increase the speed and quality of statutory interpretation performed by judges, attorneys, prosecutors, administrative staff, and other professionals. The researchers hypothesize that a computer program can automatically recognize specific types of statements that play the most important roles in statutory interpretation. The goal is to develop a proof-of-concept expert system to support interpretation and perform it automatically for cybercrime.[20]\n\nAI is also capable of analyzing large volumes of criminal justice-related records to predict potential criminal recidivism. Researchers at the Research Triangle Institute, in partnership with the Durham Police Department and the Anne Arundel Sheriff\u2019s Department, are working to create an automated warrant service triage tool for the North Carolina Statewide Warrant Repository. The NIJ-supported team is using algorithms to analyze data sets with more than 340,000 warrant records. The algorithms form decision trees and perform survival analysis to determine the time span until the next occurrence of an event of interest and predict the risk of re-offending for absconding individuals (if a warrant goes unserved). This model will help practitioners triage warrant service when backlogs exist. The resulting tool will also be geographically referenced so that practitioners can pursue concentrations of high-risk absconders \u2014 along with others who have active warrants \u2014 to optimize resources.[21]\n\nAI can also help determine potential elder victims of physical and financial abuse. NIJ-funded researchers at the University of Texas Health Science Center at Houston used AI algorithms to analyze elder victimization. The algorithms can determine the victim, the person who committed the crime, and environmental factors that distinguish between financial exploitation and other forms of elder abuse. They can also differentiate \u201cpure\u201d financial exploitation (when the victim of financial exploitation experiences no other abuse) from \u201chybrid\u201d financial exploitation (when physical abuse or neglect accompanies financial exploitation). The researchers hope that these data algorithms can be transformed into web-based applications so that practitioners can reliably determine the likelihood that financial exploitation is occurring and quickly intervene.[22]\n\nFinally, AI is being used to predict potential victims of violent crime based on associations and behavior. The Chicago Police Department and the Illinois Institute of Technology used algorithms to collect information and form initial groupings that focus on constructing social networks and performing analysis to determine potential high-risk individuals. This NIJ-supported research has since become a part of the Chicago Police Department\u2019s Violence Reduction Strategy.[23]\n\nThe Future of AI in Criminal Justice\n\nEvery day holds the potential for new AI applications in criminal justice, paving the way for future possibilities to assist in the criminal justice system and ultimately improve public safety.\n\nVideo analytics for integrated facial recognition, the detection of individuals in multiple locations via closed-circuit television or across multiple cameras, and object and activity detection could prevent crimes through movement and pattern analysis, recognize crimes in progress, and help investigators identify suspects. With technology such as cameras, video, and social media generating massive volumes of data, AI could detect crimes that would otherwise go undetected and help ensure greater public safety by investigating potential criminal activity, thus increasing community confidence in law enforcement and the criminal justice system. AI also has the potential to assist the nation\u2019s crime laboratories in areas such as complex DNA mixture analysis.\n\nPattern analysis of data could be used to disrupt, degrade, and prosecute crimes and criminal enterprises. Algorithms could also help prevent victims and individuals from falling into criminal pursuits and assist criminal justice professionals in safeguarding the public in ways never before imagined.\n\nAI technology also has the potential to provide law enforcement with situational awareness and context, thus aiding in police well-being due to better informed responses to possibly dangerous situations. Technology that includes robotics and drones could also perform public safety surveillance, be integrated into overall public safety systems, and provide a safe alternative to putting police and the public in harm\u2019s way. Robotics and drones could also perform recovery, provide valuable intelligence, and augment criminal justice professionals in ways not yet contrived.\n\nBy using AI and predictive policing analytics integrated with computer-aided response and live public safety video enterprises, law enforcement will be better able to respond to incidents, prevent threats, stage interventions, divert resources, and investigate and analyze criminal activity. AI has the potential to be a permanent part of our criminal justice ecosystem, providing investigative assistance and allowing criminal justice professionals to better maintain public safety.\n\nSidebar: The National Artificial Intelligence Research and Development Strategic Plan\n\nOn May 3, 2016, the White House announced a series of actions to spur public dialogue on artificial intelligence (AI), identify challenges and opportunities related to this technology, aid in the use of Al for more effective government, and prepare for the potential benefits and risks of Al. As part of these actions, the White House directed the creation of a national strategy for AI research and development. Following is a summary of the plan\u2019s areas and intent.[24]\n\nManufacturing\n\nIncrease U.S. manufacturing by using robotics\n\nImprove worker health and safety\n\nImprove product quality and reduce costs\n\nAccelerate production capabilities\n\nImprove demand forecasting\n\nIncrease flexibility in operations and the supply chain\n\nPredict impacts to manufacturing operations\n\nImprove scheduling of processes and reduce inventory requirements\n\nLogistics\n\nImprove supply chains with adaptive scheduling and routing\n\nProvide more robust supply chains\n\nFinance\n\nAllow early detection of risk\n\nReduce malicious behavior and fraud\n\nIncrease efficiency and reduce volatility\n\nPrevent systemic failures\n\nTransportation\n\nImprove structural health monitoring and infrastructure management\n\nReduce the cost of repair and reconstruction\n\nMake vehicular travel safer\n\nProvide real-time route information\n\nImprove transportation networks and reduce emissions\n\nAgriculture\n\nImprove production, processing, and storage\n\nImprove distribution and consumption of agricultural products\n\nGather data about crops to remove weeds and pests more efficiently\n\nApply treatments (water, fertilizer, etc.) strategically\n\nFill labor gaps\n\nMarketing\n\nProvide a better match of supply with demand\n\nDrive up revenue for private-sector development\n\nAnticipate consumer needs, and find products and services\n\nReduce costs\n\nCommunications\n\nMaximize efficient bandwidth use\n\nAutomate information storage and retrieval\n\nImprove filter, search, translation, and summarization functions\n\nScience and Technology\n\nAssist in knowledge accumulation\n\nRefine theories\n\nGenerate hypotheses and perform experiments using simulations\n\nEducation\n\nProvide automated tutoring and instruction\n\nImprove personalized programs and evaluation\n\nProvide life-long learning and new skills for the total population\n\nMedicine\n\nUse bioinformatics to identify genetic risk from large-scale studies\n\nPredict safety and efficacy of pharmaceuticals\n\nDevelop new pharmaceutical compounds\n\nCustomize medicine\n\nDiagnose conditions and recommend treatment\n\nLaw\n\nAnalyze case law history\n\nAssist with discovery process\n\nSummarize evidence\n\nPersonal Services\n\nProvide natural language systems for an easier interface and user experience\n\nProvide automated personal assistants\n\nAllow group scheduling\n\nSecurity and Law Enforcement\n\nDetect patterns and anomalous behavior\n\nPredict crowd behavior and crime patterns\n\nProtect critical infrastructure\n\nUncover criminal networks\n\nSafety and Prediction\n\nPredict infrastructure disruptions with distributed sensor systems and pattern information\n\nAdapt operations for minimal impact\n\nReturn to text.\n\nAbout This Article\n\nThis article was published as part of NIJ Journal issue number 280, December 2018.\n\nThis article discusses the following grants:",
+            "metadata": {}
+          },
+          "session_id": "gen_73a72031aeeb4d739c2b1a77c0191485"
+        },
+        "metadata": {
+          "created": "2025-03-19T23:33:29.218665",
+          "last_accessed": "2025-03-19T23:33:29.218665",
+          "access_count": 0
+        },
+        "relevance": 0.8,
+        "timestamp": 1742407409.2186651,
+        "id": "gen_73a72031aeeb4d739c2b1a77c0191485_web_data_6d48d002"
+      },
+      {
+        "data": {
+          "type": "hypothesis",
+          "data": {
+            "id": "hyp-1742407416-0",
+            "statement": "AI is being used to automate and improve the accuracy of various forensic analysis tasks, such as fingerprint analysis, DNA analysis, and facial recognition.",
+            "confidence": 0.9,
+            "rationale": "Source 2 explicitly lists these areas as applications of AI in forensics, and Source 3 implies automation as a key benefit of AI in digital forensics.",
+            "sources": [],
+            "source_urls": [],
+            "created_at": 1742407416.890522
+          },
+          "session_id": "gen_73a72031aeeb4d739c2b1a77c0191485"
+        },
+        "metadata": {
+          "created": "2025-03-19T23:33:38.937032",
+          "last_accessed": "2025-03-19T23:33:38.937032",
+          "access_count": 0
+        },
+        "relevance": 0.9,
+        "timestamp": 1742407418.9370325,
+        "id": "gen_73a72031aeeb4d739c2b1a77c0191485_hypothesis_313c98a4"
+      },
+      {
+        "data": {
+          "type": "hypothesis",
+          "data": {
+            "id": "hyp-1742407416-1",
+            "statement": "AI is being employed to accelerate digital forensic investigations by automating searches for key evidence and enabling deeper analysis.",
+            "confidence": 0.8,
+            "rationale": "Source 3 specifically focuses on the benefits of AI in digital forensics, highlighting automated searches and deeper analysis as key advantages.",
+            "sources": [],
+            "source_urls": [],
+            "created_at": 1742407416.890522
+          },
+          "session_id": "gen_73a72031aeeb4d739c2b1a77c0191485"
+        },
+        "metadata": {
+          "created": "2025-03-19T23:33:40.985514",
+          "last_accessed": "2025-03-19T23:33:40.985514",
+          "access_count": 0
+        },
+        "relevance": 0.8,
+        "timestamp": 1742407420.985514,
+        "id": "gen_73a72031aeeb4d739c2b1a77c0191485_hypothesis_b0494e71"
+      },
+      {
+        "data": {
+          "type": "hypothesis",
+          "data": {
+            "id": "hyp-1742407416-2",
+            "statement": "AI has the potential to reduce bias in forensic investigations.",
+            "confidence": 0.7,
+            "rationale": "Source 2 mentions bias reduction as a potential impact of AI, though without detailed explanation.  Further research is needed to validate the extent and effectiveness of this application.",
+            "sources": [],
+            "source_urls": [],
+            "created_at": 1742407416.891568
+          },
+          "session_id": "gen_73a72031aeeb4d739c2b1a77c0191485"
+        },
+        "metadata": {
+          "created": "2025-03-19T23:33:43.050818",
+          "last_accessed": "2025-03-19T23:33:43.050818",
+          "access_count": 0
+        },
+        "relevance": 0.7,
+        "timestamp": 1742407423.0508184,
+        "id": "gen_73a72031aeeb4d739c2b1a77c0191485_hypothesis_ba1ac651"
+      },
+      {
+        "data": {
+          "type": "hypothesis",
+          "data": {
+            "id": "hyp-1742407416-3",
+            "statement": "The increasing prevalence of AI in everyday technologies will lead to its increased involvement in both the perpetration and investigation of crimes.",
+            "confidence": 0.7,
+            "rationale": "Source 3 suggests that the growing adoption of AI in various technologies will make it a factor in more crimes and incidents, necessitating its use in investigations as well.",
+            "sources": [],
+            "source_urls": [],
+            "created_at": 1742407416.891568
+          },
+          "session_id": "gen_73a72031aeeb4d739c2b1a77c0191485"
+        },
+        "metadata": {
+          "created": "2025-03-19T23:33:45.118737",
+          "last_accessed": "2025-03-19T23:33:45.118737",
+          "access_count": 0
+        },
+        "relevance": 0.7,
+        "timestamp": 1742407425.1187367,
+        "id": "gen_73a72031aeeb4d739c2b1a77c0191485_hypothesis_54ca6a1c"
+      },
+      {
+        "data": {
+          "type": "hypothesis",
+          "data": {
+            "id": "hyp-1742407416-4",
+            "statement": "AI can assist in resolving cold cases by analyzing large datasets and identifying previously overlooked connections or patterns.",
+            "confidence": 0.6,
+            "rationale": "Source 2 lists cold case resolution as an area where AI can be impactful.  This likely involves analyzing existing data, but further research is needed to confirm the specific mechanisms.",
+            "sources": [],
+            "source_urls": [],
+            "created_at": 1742407416.891568
+          },
+          "session_id": "gen_73a72031aeeb4d739c2b1a77c0191485"
+        },
+        "metadata": {
+          "created": "2025-03-19T23:33:47.175314",
+          "last_accessed": "2025-03-19T23:33:47.175314",
+          "access_count": 0
+        },
+        "relevance": 0.6,
+        "timestamp": 1742407427.1753142,
+        "id": "gen_73a72031aeeb4d739c2b1a77c0191485_hypothesis_648a61be"
+      },
+      {
+        "data": {
+          "type": "generation_summary",
+          "data": {
+            "query": "How are AI technologies being used in forensic investigations?",
+            "web_data_count": 4,
+            "hypotheses_count": 5,
+            "timestamp": 1742407427.1848652
+          },
+          "session_id": "gen_73a72031aeeb4d739c2b1a77c0191485"
+        },
+        "metadata": {
+          "created": "2025-03-19T23:33:49.238754",
+          "last_accessed": "2025-03-19T23:33:49.238754",
+          "access_count": 0
+        },
+        "relevance": 0.9,
+        "timestamp": 1742407429.2387543,
+        "id": "gen_73a72031aeeb4d739c2b1a77c0191485_generation_summary_c5621864"
+      },
+      {
+        "data": {
+          "type": "reflection",
+          "data": {
+            "reflection": {
+              "is_coherent": true,
+              "coherence_score": 1.0,
+              "has_supporting_evidence": true,
+              "supporting_facts": [
+                {
+                  "fact": "Shor's algorithm, executable on quantum computers, can factor large numbers exponentially faster than classical algorithms, threatening RSA encryption.",
+                  "source": "https://example.com/quantum-crypto"
+                }
+              ],
+              "contradictions": [],
+              "comments": [
+                "The hypothesis is logically coherent and directly supported by the provided web data. Source 1 explicitly states that Shor's algorithm, running on quantum computers, poses a threat to RSA encryption by factoring large numbers significantly faster than classical methods.  Source 2 indirectly supports this by highlighting the need for post-quantum cryptography specifically designed to resist attacks like Shor's algorithm. This implies the existence of a threat from quantum computers using algorithms like Shor's against current methods like RSA.",
+                "While the data supports the hypothesis, it's crucial to remember that the actual threat depends on the development of sufficiently powerful quantum computers.  Current quantum computers are not yet capable of breaking RSA encryption in practice."
+              ],
+              "query": "How do quantum computers affect cryptography?",
+              "hypothesis_id": "hyp_001"
+            },
+            "hypothesis_statement": "Quantum computers can break current RSA encryption methods through Shor's algorithm.",
+            "hypothesis_id": "hyp_001",
+            "timestamp": 1742408180.503322
+          },
+          "session_id": "5824a784-a355-4552-8a66-375e2074f367"
+        },
+        "metadata": {
+          "created": "2025-03-19T23:46:22.545499",
+          "last_accessed": "2025-03-19T23:46:22.545499",
+          "access_count": 0
+        },
+        "relevance": 1.0,
+        "timestamp": 1742408182.5454986,
+        "id": "5824a784-a355-4552-8a66-375e2074f367_reflection_6919fc7e"
+      },
+      {
+        "data": {
+          "type": "reflection",
+          "data": {
+            "reflection": {
+              "is_coherent": true,
+              "coherence_score": 1.0,
+              "has_supporting_evidence": true,
+              "supporting_facts": [
+                {
+                  "fact": "Post-quantum cryptography refers to cryptographic algorithms that are thought to be secure against an attack by quantum computers.",
+                  "source": "https://example.com/post-quantum"
+                },
+                {
+                  "fact": "These algorithms are designed to resist quantum computing techniques like Shor's algorithm.",
+                  "source": "https://example.com/post-quantum"
+                }
+              ],
+              "contradictions": [],
+              "comments": [
+                "The hypothesis is coherent and directly supported by the provided web data. Source 2 explicitly states that post-quantum cryptography is designed to resist attacks from quantum computers, including Shor's algorithm, which Source 1 highlights as a threat to current encryption methods like RSA.",
+                "While the provided data supports the hypothesis, it's important to note that 'thought to be secure' doesn't guarantee absolute security.  The field is constantly evolving, and new quantum algorithms or attacks could potentially emerge in the future."
+              ],
+              "query": "How do quantum computers affect cryptography?",
+              "hypothesis_id": "hyp_002"
+            },
+            "hypothesis_statement": "Post-quantum cryptography algorithms can resist quantum computer attacks.",
+            "hypothesis_id": "hyp_002",
+            "timestamp": 1742408187.1205516
+          },
+          "session_id": "5824a784-a355-4552-8a66-375e2074f367"
+        },
+        "metadata": {
+          "created": "2025-03-19T23:46:29.171684",
+          "last_accessed": "2025-03-19T23:46:29.171684",
+          "access_count": 0
+        },
+        "relevance": 1.0,
+        "timestamp": 1742408189.171684,
+        "id": "5824a784-a355-4552-8a66-375e2074f367_reflection_3314d82b"
+      },
+      {
+        "data": {
+          "type": "ranking_results",
+          "data": {
+            "query": "What are the latest advancements in quantum computing?",
+            "ranked_hypotheses": [
+              {
+                "id": "hyp_002",
+                "statement": "Error correction remains the biggest challenge in quantum computing.",
+                "scores": {
+                  "coherence": 0.9,
+                  "evidence": 0.4,
+                  "relevance": 0.75,
+                  "specificity": 0.34,
+                  "novelty": 0.890818858560794,
+                  "llm_credibility": 0.9
+                },
+                "overall_score": 6.9,
+                "rank_explanation": "The hypothesis is logically coherent. supported by 2 pieces of evidence. moderately relevant to the query. assessed as highly credible by llm.",
+                "rank": 1
+              },
+              {
+                "id": "hyp_003",
+                "statement": "Quantum machine learning is showing promise for certain optimization problems.",
+                "scores": {
+                  "coherence": 0.7,
+                  "evidence": 0.1,
+                  "relevance": 0.65,
+                  "specificity": 0.39,
+                  "novelty": 0.9503657262277951,
+                  "llm_credibility": 0.8
+                },
+                "overall_score": 5.5,
+                "rank_explanation": "The hypothesis is somewhat coherent. supported by 1 pieces of evidence. has 1 contradicting points. moderately relevant to the query. assessed as highly credible by llm.",
+                "rank": 2
+              },
+              {
+                "id": "hyp_001",
+                "statement": "Quantum computers have achieved quantum supremacy by solving problems no classical computer can solve.",
+                "scores": {
+                  "coherence": 0.8,
+                  "evidence": 0.1,
+                  "relevance": 0.65,
+                  "specificity": 0.5,
+                  "novelty": 0.9067234848484849,
+                  "llm_credibility": 0.5
+                },
+                "overall_score": 5.3,
+                "rank_explanation": "The hypothesis is logically coherent. supported by 1 pieces of evidence. has 1 contradicting points. moderately relevant to the query. has mixed credibility according to llm.",
+                "rank": 3
+              }
+            ],
+            "timestamp": 1742431181.1584015
+          },
+          "session_id": "session_247359c0"
+        },
+        "metadata": {
+          "created": "2025-03-20T06:09:43.194250",
+          "last_accessed": "2025-03-20T06:09:43.194250",
+          "access_count": 0
+        },
+        "relevance": 1.0,
+        "timestamp": 1742431183.1942496,
+        "id": "session_247359c0_ranking_results_829d000d"
+      },
+      {
+        "data": {
+          "type": "ranking_results",
+          "data": {
+            "query": "What are the latest advancements in quantum computing?",
+            "ranked_hypotheses": [
+              {
+                "id": "hyp_002",
+                "statement": "Error correction remains the biggest challenge in quantum computing.",
+                "scores": {
+                  "coherence": 0.9,
+                  "evidence": 0.4,
+                  "relevance": 0.75,
+                  "specificity": 0.34,
+                  "novelty": 0.890818858560794,
+                  "llm_credibility": 0.9
+                },
+                "overall_score": 6.9,
+                "rank_explanation": "The hypothesis is logically coherent. supported by 2 pieces of evidence. moderately relevant to the query. assessed as highly credible by llm.",
+                "rank": 1
+              },
+              {
+                "id": "hyp_003",
+                "statement": "Quantum machine learning is showing promise for certain optimization problems.",
+                "scores": {
+                  "coherence": 0.7,
+                  "evidence": 0.1,
+                  "relevance": 0.65,
+                  "specificity": 0.39,
+                  "novelty": 0.9503657262277951,
+                  "llm_credibility": 0.8
+                },
+                "overall_score": 5.5,
+                "rank_explanation": "The hypothesis is somewhat coherent. supported by 1 pieces of evidence. has 1 contradicting points. moderately relevant to the query. assessed as highly credible by llm.",
+                "rank": 2
+              },
+              {
+                "id": "hyp_001",
+                "statement": "Quantum computers have achieved quantum supremacy by solving problems no classical computer can solve.",
+                "scores": {
+                  "coherence": 0.8,
+                  "evidence": 0.1,
+                  "relevance": 0.65,
+                  "specificity": 0.5,
+                  "novelty": 0.9067234848484849,
+                  "llm_credibility": 0.5
+                },
+                "overall_score": 5.3,
+                "rank_explanation": "The hypothesis is logically coherent. supported by 1 pieces of evidence. has 1 contradicting points. moderately relevant to the query. has mixed credibility according to llm.",
+                "rank": 3
+              }
+            ],
+            "timestamp": 1742431914.9631882
+          },
+          "session_id": "session_149d8136"
+        },
+        "metadata": {
+          "created": "2025-03-20T06:21:57.014699",
+          "last_accessed": "2025-03-20T06:21:57.014699",
+          "access_count": 0
+        },
+        "relevance": 1.0,
+        "timestamp": 1742431917.0146995,
+        "id": "session_149d8136_ranking_results_544e2f16"
+      }
+    ],
+    "links": []
+  },
+  "last_updated": "2025-03-20T06:21:57.015699"
+}

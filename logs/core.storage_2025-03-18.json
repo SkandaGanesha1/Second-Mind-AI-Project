@@ -1,0 +1,57 @@
+[SYSTEM] Saved 1 memories to storage
+{"timestamp": "2025-03-18T18:41:38.542995", "level": "INFO", "session_id": "session_1742303494", "agent": "system", "message": "Saved 1 memories to storage", "data": {}}
+{"timestamp": "2025-03-18T18:41:38.542995", "level": "DEBUG", "session_id": "session_1742303494", "agent": "system", "message": "Stored memory item with key: session_20250318184138_init", "data": {}}
+[SYSTEM] Started new session session_20250318184138 with query: Impact of AI on Forensic Investigations
+{"timestamp": "2025-03-18T18:41:38.544008", "level": "INFO", "session_id": "session_1742303494", "agent": "system", "message": "Started new session session_20250318184138 with query: Impact of AI on Forensic Investigations", "data": {}}
+[SYSTEM] Loaded 1 memories from storage
+{"timestamp": "2025-03-18T18:51:57.646941", "level": "INFO", "session_id": "session_1742304113", "agent": "system", "message": "Loaded 1 memories from storage", "data": {}}
+[SYSTEM] Loaded 1 memories from storage
+{"timestamp": "2025-03-18T18:52:44.061458", "level": "INFO", "session_id": "session_1742304160", "agent": "system", "message": "Loaded 1 memories from storage", "data": {}}
+[SYSTEM] Loaded 1 memories from storage
+{"timestamp": "2025-03-18T18:54:35.280209", "level": "INFO", "session_id": "session_1742304271", "agent": "system", "message": "Loaded 1 memories from storage", "data": {}}
+[SYSTEM] Loaded 1 memories from storage
+{"timestamp": "2025-03-18T18:55:39.863516", "level": "INFO", "session_id": "session_1742304336", "agent": "system", "message": "Loaded 1 memories from storage", "data": {}}
+[SYSTEM] Loaded 1 memories from storage
+{"timestamp": "2025-03-18T18:58:47.155238", "level": "INFO", "session_id": "session_1742304523", "agent": "system", "message": "Loaded 1 memories from storage", "data": {}}
+[SYSTEM] Loaded 1 memories from storage
+{"timestamp": "2025-03-18T18:59:11.944168", "level": "INFO", "session_id": "session_1742304548", "agent": "system", "message": "Loaded 1 memories from storage", "data": {}}
+[SYSTEM] Loaded 1 memories from storage
+{"timestamp": "2025-03-18T18:59:36.411605", "level": "INFO", "session_id": "session_1742304572", "agent": "system", "message": "Loaded 1 memories from storage", "data": {}}
+[SYSTEM] Loaded 1 memories from storage
+{"timestamp": "2025-03-18T19:00:01.600964", "level": "INFO", "session_id": "session_1742304597", "agent": "system", "message": "Loaded 1 memories from storage", "data": {}}
+[SYSTEM] Loaded 1 memories from storage
+{"timestamp": "2025-03-18T19:04:26.408510", "level": "INFO", "session_id": "session_1742304862", "agent": "system", "message": "Loaded 1 memories from storage", "data": {}}
+[SYSTEM] Loaded 1 memories from storage
+{"timestamp": "2025-03-18T19:07:00.130356", "level": "INFO", "session_id": "session_1742305016", "agent": "system", "message": "Loaded 1 memories from storage", "data": {}}
+[SYSTEM] Loaded 1 memories from storage
+{"timestamp": "2025-03-18T19:09:18.032828", "level": "INFO", "session_id": "session_1742305154", "agent": "system", "message": "Loaded 1 memories from storage", "data": {}}
+[SYSTEM] Loaded 1 memories from storage
+{"timestamp": "2025-03-18T19:18:44.307667", "level": "INFO", "session_id": "session_1742305719", "agent": "system", "message": "Loaded 1 memories from storage", "data": {}}
+[SYSTEM] Loaded 1 memories from storage
+{"timestamp": "2025-03-18T19:20:58.543333", "level": "INFO", "session_id": "session_1742305854", "agent": "system", "message": "Loaded 1 memories from storage", "data": {}}
+[SYSTEM] Loaded 1 memories from storage
+{"timestamp": "2025-03-18T19:24:23.072783", "level": "INFO", "session_id": "session_1742306059", "agent": "system", "message": "Loaded 1 memories from storage", "data": {}}
+[SYSTEM] Loaded 1 memories from storage
+{"timestamp": "2025-03-18T19:34:04.532387", "level": "INFO", "session_id": "session_1742306640", "agent": "system", "message": "Loaded 1 memories from storage", "data": {}}
+[SYSTEM] Loaded 1 memories from storage
+{"timestamp": "2025-03-18T20:14:20.611397", "level": "INFO", "session_id": "session_1742309056", "agent": "system", "message": "Loaded 1 memories from storage", "data": {}}
+[SYSTEM] Loaded 1 memories from storage
+{"timestamp": "2025-03-18T20:30:46.169599", "level": "INFO", "session_id": "session_1742310042", "agent": "system", "message": "Loaded 1 memories from storage", "data": {}}
+[SYSTEM] Loaded 1 memories from storage
+{"timestamp": "2025-03-18T20:37:40.256276", "level": "INFO", "session_id": "session_1742310457", "agent": "system", "message": "Loaded 1 memories from storage", "data": {}}
+[SYSTEM] Loaded 1 memories from storage
+{"timestamp": "2025-03-18T20:39:18.344966", "level": "INFO", "session_id": "session_1742310555", "agent": "system", "message": "Loaded 1 memories from storage", "data": {}}
+[SYSTEM] Loaded 1 memories from storage
+{"timestamp": "2025-03-18T20:46:56.220615", "level": "INFO", "session_id": "session_1742311013", "agent": "system", "message": "Loaded 1 memories from storage", "data": {}}
+[SYSTEM] Loaded 1 memories from storage
+{"timestamp": "2025-03-18T20:50:25.823235", "level": "INFO", "session_id": "session_1742311222", "agent": "system", "message": "Loaded 1 memories from storage", "data": {}}
+[SYSTEM] Loaded 1 memories from storage
+{"timestamp": "2025-03-18T20:55:26.173789", "level": "INFO", "session_id": "session_1742311523", "agent": "system", "message": "Loaded 1 memories from storage", "data": {}}
+[SYSTEM] Loaded 1 memories from storage
+{"timestamp": "2025-03-18T20:58:55.565963", "level": "INFO", "session_id": "session_1742311732", "agent": "system", "message": "Loaded 1 memories from storage", "data": {}}
+[SYSTEM] Loaded 1 memories from storage
+{"timestamp": "2025-03-18T21:01:20.514932", "level": "INFO", "session_id": "session_1742311877", "agent": "system", "message": "Loaded 1 memories from storage", "data": {}}
+[SYSTEM] Loaded 1 memories from storage
+{"timestamp": "2025-03-18T21:07:50.984838", "level": "INFO", "session_id": "session_1742312268", "agent": "system", "message": "Loaded 1 memories from storage", "data": {}}
+[SYSTEM] Loaded 1 memories from storage
+{"timestamp": "2025-03-18T21:10:22.268228", "level": "INFO", "session_id": "session_1742312419", "agent": "system", "message": "Loaded 1 memories from storage", "data": {}}

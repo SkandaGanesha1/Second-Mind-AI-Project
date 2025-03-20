@@ -1,0 +1,6 @@
+[SYSTEM] Context Protocol Server started on http://localhost:8000
+{"timestamp": "2025-03-19T23:32:19.550224", "level": "INFO", "session_id": "session_1742407335", "agent": "system", "message": "Context Protocol Server started on http://localhost:8000", "data": {}}
+[SYSTEM] Context Protocol Server stopping
+{"timestamp": "2025-03-19T23:35:35.410610", "level": "INFO", "session_id": "session_1742407335", "agent": "system", "message": "Context Protocol Server stopping", "data": {}}
+[SYSTEM] Context Protocol Server started on http://localhost:8000
+{"timestamp": "2025-03-19T23:46:08.858790", "level": "INFO", "session_id": "session_1742408164", "agent": "system", "message": "Context Protocol Server started on http://localhost:8000", "data": {}}
