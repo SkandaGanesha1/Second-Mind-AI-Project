@@ -1,0 +1,3 @@
+2025-03-19 23:32:19 | INFO     | core.context_manager | [SYSTEM] Context Protocol Server started on http://localhost:8000
+2025-03-19 23:35:35 | INFO     | core.context_manager | [SYSTEM] Context Protocol Server stopping
+2025-03-19 23:46:08 | INFO     | core.context_manager | [SYSTEM] Context Protocol Server started on http://localhost:8000
